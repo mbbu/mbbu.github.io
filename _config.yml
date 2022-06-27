@@ -1,0 +1,20 @@
+baseurl: ""
+url: "https://mbbu.github.io"
+
+title: MBBU
+description: MBBU website
+
+collections:
+  cohorts:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "cohorts"
+    values:
+      layout: "cohort"
+  - scope:
+      path: ""
+    values:
+      layout: "default"

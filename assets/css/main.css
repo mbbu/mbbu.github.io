@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+}
+
+h1 {
+    @apply text-3xl;
+}
+h2 {
+    @apply text-2xl;
+}
+h3 {
+    @apply text-xl;
+}
+
+.primary {
+  @apply text-blue-800;
+  @apply dark:text-blue-400;
+}
+
+.dna-img{
+  animation-name:rotate;
+  animation-duration: 8s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+
+}
+
+.nav-item {
+  @apply block md:inline-flex;
+  @apply py-2 px-4 md:py-0 md:px-2;
+  @apply rounded border-b md:border-b-0 border-gray-100 dark:border-gray-700;
+  @apply hover:bg-blue-50 md:hover:bg-transparent md:hover:underline;
+  @apply text-gray-600 dark:text-white md:hover:text-gray-500 hover:dark:text-gray-600 md:hover:dark:text-white;
+  @apply capitalize;
+}
+.nav-item--active {
+  @apply bg-blue-800 md:bg-transparent text-white md:text-blue-800 md:dark:text-blue-400;
+}
+
+@keyframes rotate{
+
+  100%{
+    transform:rotate(360deg);
+  }
+}

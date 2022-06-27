@@ -1,0 +1,21 @@
+{
+  "name": "mbbu.github.io",
+  "version": "1.0.0",
+  "description": "MBBU website",
+  "main": "index.js",
+  "scripts": {
+    "dev-css": "npx tailwindcss -i assets/css/main.css -o dist/css/main.css --watch --jit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mbbu.github.io"
+  },
+  "author": "mbbu",
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.2",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.4"
+  }
+}

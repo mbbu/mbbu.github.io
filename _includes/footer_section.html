@@ -1,0 +1,11 @@
+<div>
+  <h2 class="mb-4 text-sm font-sans font-semibold uppercase text-gray-900 dark:text-white">
+    {{ include.name }}
+  </h2>
+  <div class="text-gray-500 dark:text-gray-400">
+    {% for item in include.links %}
+    <a href="{{ item.link }}" class="block mb-2 hover:text-gray-900 dark:hover:text-white">{{ item.name
+      }}</a>
+    {% endfor %}
+  </div>
+</div>

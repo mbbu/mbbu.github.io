@@ -1,0 +1,25 @@
+- id: cohort_1
+  name: Cohort 1
+  participants:
+    - name: John Doe
+      github: ""
+    - name: Jane Doe
+      github: ""
+  projects:
+    - name: Hello World
+      github: ""
+    - name: Another One
+      github: ""
+
+- id: cohort_2
+  name: Cohort 2
+  participants:
+    - name: John Doe
+      github: ""
+    - name: Jane Doe
+      github: ""
+  projects:
+    - name: Hello World
+      github: ""
+    - name: Another One
+      github: ""

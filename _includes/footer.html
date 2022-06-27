@@ -1,0 +1,44 @@
+<footer class="p-8 md:px-16 bg-white dark:bg-gray-800">
+  <div class="mx-auto md:flex md:justify-between">
+    <!-- Site Name -->
+    <div class="mb-6 md:mb-0">
+      <a href="/" class="flex flex-1">
+        <h2 class="self-center text-2xl whitespace-nowrap primary">
+          MBBU
+        </h2>
+      </a>
+    </div>
+    <!-- Site Name -->
+
+    <!-- Links -->
+    <div class="grid grid-cols-2 sm:grid-cols-3 gap-8 sm:gap-6">
+      {% include footer_section.html name="Quick Links" links=site.data.navbar %}
+      {% for item in site.data.footer %}
+      {% include footer_section.html name=item.name links=item.links %}
+      {% endfor %}
+    </div>
+  </div>
+  <!-- Links -->
+  <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8">
+
+  <div class="flex flex-col justify-between items-start md:flex-row md:items-center">
+    <span class="block md:inline-flex md:flex-1 text-gray-500 dark:text-gray-400">&copy;
+      <span id="copyright-year" class="mx-1"></span>
+      <a href="/" class="hover:underline mx-1">{{ site.title }}.</a>
+      All Rights Reserved.
+    </span>
+    <div class="flex space-x-8 my-4 md:my-0">
+      {% for item in site.data.footer %}
+      {% if item.name == "Follow Us" %}
+      {% for link in item.links %}
+      <a href="{{link.link}}" target="_blank">
+        <span class="text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white">
+          <i class="{{link.icon}}"></i>
+        </span>
+      </a>
+      {% endfor %}
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</footer>
