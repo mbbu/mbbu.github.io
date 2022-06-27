@@ -16,7 +16,7 @@ title: Home
       Cohorts
     </a>
   </div>
-  <div class="flex flex-col items-center justify-center w-2/5">
+  <div class="flex flex-col items-center justify-center w-2/5 overflow-hidden">
     <img src="/assets/img/dna.svg" alt="illustration" class="w-full dna-img">
   </div>
 </div>
