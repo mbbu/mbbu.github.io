@@ -30,9 +30,8 @@ h3 {
 }
 
 .nav-item {
-  @apply block md:inline-flex;
+  @apply inline-flex;
   @apply py-2 px-4 md:py-0 md:px-2;
-  @apply rounded border-b md:border-b-0 border-gray-100 dark:border-gray-700;
   @apply hover:bg-blue-50 md:hover:bg-transparent md:hover:underline;
   @apply text-gray-600 dark:text-white md:hover:text-gray-500 hover:dark:text-gray-600 md:hover:dark:text-white;
   @apply capitalize;

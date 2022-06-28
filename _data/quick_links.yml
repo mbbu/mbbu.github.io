@@ -1,0 +1,6 @@
+- name: Internship Cohorts
+  link: "/cohorts"
+- name: Internship Curriculum
+  link: "/curriculum"
+- name: HPC
+  link: https://hpc01.icipe.org/

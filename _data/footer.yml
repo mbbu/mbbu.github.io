@@ -1,7 +1,7 @@
 - name: Follow Us
   links:
     - name: Github
-      link: ""
+      link: "https://github.com/mbbu"
       icon: fab fa-github
     - name: Twitter
       link: ""
