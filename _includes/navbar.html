@@ -2,7 +2,7 @@
 
   <div class="container flex flex-wrap justify-between items-center">
     <!-- Site Name -->
-    <a href="/" class="flex flex-1">
+    <a href="/" class="order-1 flex flex-1">
       <h2 class="self-center text-2xl whitespace-nowrap primary">
         MBBU
       </h2>
@@ -11,7 +11,7 @@
 
     <!-- Mobile Menu Toggle -->
     <button data-collapse-toggle="mobile-menu" type="button"
-      class="md:hidden inline-flex items-center p-2 ml-auto rounded-full hover:bg-blue-50 dark:hover:bg-gray-900"
+      class="order-2 md:hidden inline-flex items-center p-2 ml-auto rounded-full hover:bg-blue-50 dark:hover:bg-gray-900"
       aria-controls="mobile-menu" aria-expanded="false" onclick="toggleNavbar('mobile-menu')">
       <span class="sr-only">Open main menu</span>
       <span class="primary h-6 w-6"><i class="fa fa-bars"></i></span>
@@ -19,7 +19,7 @@
     <!-- Mobile Menu Toggle -->
 
     <!-- Nav Menu -->
-    <div id="mobile-menu" class="hidden md:block w-full md:w-auto">
+    <div id="mobile-menu" class="order-last md:order-3 hidden md:block w-full md:w-auto">
       <div class="flex flex-col md:flex-row md:justify-end md:space-x-8 mt-4 md:mt-0 md:text-sm md:font-medium">
         <!-- Create Menu Dynamically -->
         {% for item in site.data.navbar %}
@@ -32,11 +32,12 @@
     </div>
     <!-- Nav Menu -->
 
+    <!-- Theme Toggle -->
     <button id="theme-toggle"
-      class="h-6 w-6 inline-flex items-center justify-center mx-2 sm:mx-4 p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-900 text-gray-500 dark:text-gray-400 hover:text-blue-800 dark:hover:text-blue-400">
+      class="order-3 md:order-last md:inline-flex h-6 w-6 inline-flex items-center justify-center mx-2 sm:mx-4 p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-900 text-gray-500 dark:text-gray-400 hover:text-blue-800 dark:hover:text-blue-400">
       <i id="theme-toggle-dark" class="fa fa-moon hidden" aria-hidden="true"></i>
       <i id="theme-toggle-light" class="fa fa-sun hidden" aria-hidden="true"></i>
     </button>
+    <!-- Theme Toggle -->
   </div>
-
 </nav>
