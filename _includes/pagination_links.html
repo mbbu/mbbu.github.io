@@ -1,0 +1,48 @@
+<div class="flex items-center justify-between my-4">
+  {% if paginator.total_pages > 1 %}
+  {% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path | relative_url | append: '#all-posts'}}"
+    class="inline-flex items-baseline text-sm font-medium text-gray-500 dark:text-gray-400  hover:text-gray-700 dark:hover:text-white">
+    <i class="mr-2 w-5 h-5 fa fa-arrow-left" aria-hidden="true"></i>
+    Previous
+  </a>
+  {% else %}
+  <a disabled href="#" class="inline-flex items-baseline text-sm font-medium text-gray-500 dark:text-gray-400">
+    <i class="mr-2 w-5 h-5 fa fa-arrow-left" aria-hidden="true"></i>
+    Previous
+  </a>
+  {% endif %}
+
+  <div class="inline-flex items-center">
+    {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+    <a href="#"
+      class="border-t-2 border-blue-800 dark:border-blue-400 text-gray-500 dark:text-gray-400 font-bold mx-2 py-2 px-2">
+      {{ page }}
+    </a>
+    {% elsif page == 1 %}
+    <a href="{{ '/blog' | relative_url | append: '#all-posts'}}"
+      class="text-gray-500 dark:text-gray-400 font-bold py-2 px-2">
+      {{ page }}
+    </a>
+    {% else %}
+    <a href=" {{ site.paginate_path | relative_url | replace: ':num' , page | append: '#all-posts'}}"
+      class="text-gray-500 dark:text-gray-400 font-bold mx-2 py-2 px-2">
+      {{ page }}
+    </a>
+    {% endif %}
+    {% endfor %}
+  </div>
+  <a href="{{ paginator.next_page_path | relative_url | append: '#all-posts'}}"
+    class="inline-flex items-baseline justify-between  text-sm font-medium text-gray-500 dark:text-gray-400  hover:text-gray-700 dark:hover:text-white">
+    Next
+    <i class="ml-2 w-5 h-5 fa fa-arrow-right" aria-hidden="true"></i>
+  </a>
+  {% else %}
+  <a disabled href="#"
+    class="inline-flex items-baseline justify-between text-sm font-medium text-gray-500 dark:text-gray-400">
+    Next
+    <i class="ml-2 w-5 h-5 fa fa-arrow-right" aria-hidden="true"></i>
+  </a>
+  {% endif %}
+</div>

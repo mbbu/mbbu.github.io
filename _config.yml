@@ -16,6 +16,11 @@ defaults:
       layout: "cohort"
   - scope:
       path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
     values:
       layout: "default"
 
@@ -23,3 +28,12 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
+paginate: 6
+paginate_path: blog/page:num/
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM

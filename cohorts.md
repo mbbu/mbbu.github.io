@@ -5,7 +5,7 @@ description: The demand for well-trained Bioinformatics to support genomics rese
 photo: /assets/img/people.svg
 ---
 
-<div id="cohorts" class="w-full m-auto px-8 py-16 md:px-16 bg-gray-100 dark:bg-gray-900">
+<div class="w-full m-auto px-8 py-16 md:px-16 bg-gray-100 dark:bg-gray-900">
   <h2 class="text-4xl text-blue-800 dark:text-blue-400">Cohorts</h2>
   <div class="mt-4 mb-8 h-[1px] w-1/3 bg-blue-800 dark:bg-blue-400"></div>
 

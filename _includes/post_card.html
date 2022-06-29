@@ -1,0 +1,34 @@
+<div
+  class="{%if include.post.featured %}max-w-lg{% else %}max-w-sm {% endif %} mx-auto bg-white rounded-lg shadow-sm dark:bg-gray-800">
+  <div class="flex {%if include.post.featured %}flex-row{% else %}flex-col {% endif %} justify-between items-center
+    px-2 py-1">
+    <img class="object-cover w-full h-48 rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-l-lg"
+      src="{{ include.post.photo }}" alt="{{ include.post.name }}">
+
+    <div class="flex flex-col flex-1 p-4 text-justify">
+      <a class="mb-2 font-serif text-3xl font-medium text-gray-900 dark:text-white" href="{{ include.post.url }}">{{
+        include.post.title }}</a>
+      <div class="my-2  justified">
+        {% for tag in include.post.tags %}
+        <span
+          class="mx-1 px-2 py-0.5 rounded-full bg-gray-100 dark:bg-gray-900 text-sm text-gray-500 dark:text-gray-300">{{
+          tag }}</span>
+        {% endfor %}
+
+      </div>
+
+      <p class="mb-1 py-2 text-base  text-gray-500 dark:text-gray-400 text-justify">
+        {{ include.post.excerpt | strip_html | truncatewords: 20, '...'}}
+      </p>
+
+      <div class="flex flex-row items-center py-2">
+        <img src="{{ include.post.author_photo }}" alt="{{ include.post.author }}"
+          class="w-8 h-8 rounded-full shadow-lg">
+        <div class="inline-flex flex-col items-start mx-4 justify-between text-gray-700 dark:text-gray-300">
+          <h5 class="font-semibold">{{ include.post.author }}</h5>
+          <span class="text-sm">{{ include.post.date | date_to_long_string: "ordinal", "US" }}</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

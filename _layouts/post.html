@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<div class="flex flex-col items-center w-full">
+  <div class="flex flex-col max-w-4xl">
+    <!-- Author, Tags & Date -->
+    <div class="flex flex-row items-center py-2 px-4 md:px-8">
+      <img src="{{ page.author_photo }}" alt="{{ page.author }}" class="w-16 h-16 rounded-full shadow-lg">
+      <div class="inline-flex flex-col items-start mx-4 justify-between text-gray-700 dark:text-gray-300">
+        <span class="font-semibold">{{ page.author }}</span>
+        <span class="text-sm">{{ page.date | date_to_long_string: "ordinal", "US" }}</span>
+        <div class="my-2">
+          {% for tag in page.tags %}
+          <span
+            class="mx-1 px-2 py-0.5 rounded-full bg-gray-100 dark:bg-gray-900 text-sm text-gray-500 dark:text-gray-300">{{
+            tag }}</span>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    <!-- Author, Tags & Date -->
+
+    <!-- Title-->
+    <h2 class="my-4 px-4 md:px-8 font-semibold text-6xl text-gray-900 dark:text-white">
+      {{ page.title }}
+    </h2>
+    <!-- Title-->
+
+    <!-- Photo -->
+    <img src="{{page.photo}}" alt="{{page.title}}" class="rounded w-full my-2">
+    <!-- Photo -->
+
+    <article class="prose dark:prose-invert prose-lg mb-8">
+      {{ page.content | remove: page.excerpt }}
+    </article>
+  </div>
+</div>

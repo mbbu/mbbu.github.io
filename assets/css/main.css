@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+@import "syntax";
+
 h1, h2, h3, h4, h5, h6 {
     @apply font-serif;
 }
@@ -45,4 +47,8 @@ h3 {
   100%{
     transform:rotate(360deg);
   }
+}
+
+.highlight, code, pre {
+  font-family: 'IBM Plex Mono', monospace;
 }
