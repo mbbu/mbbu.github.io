@@ -83,7 +83,7 @@ on different skills acquired from _**week 1**_ to _**week 7**_.
 
 <div class="flex flex-col items-center w-full">
   <div class="flex flex-col max-w-4xl">
-    <article class="prose dark:prose-invert prose-lg prose-a:text-gray-600 dark:prose-a:text-gray-300 prose-a:font-normal  mb-8">
+    <article class="prose dark:prose-invert prose-lg prose-a:text-gray-600 dark:prose-a:text-gray-300 prose-a:font-normal mb-8 px-6">
       {{curriculum | markdownify }}
     </article>
   </div>
