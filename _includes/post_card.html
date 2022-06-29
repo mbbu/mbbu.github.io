@@ -1,6 +1,6 @@
 <div
   class="{%if include.post.featured %}max-w-lg{% else %}max-w-sm {% endif %} mx-auto bg-white rounded-lg shadow-sm dark:bg-gray-800">
-  <div class="flex {%if include.post.featured %}flex-row{% else %}flex-col {% endif %} justify-between items-center
+  <div class="flex flex-col {%if include.post.featured %}lg:flex-row{% else %}flex-col{% endif %} justify-between items-center
     px-2 py-1">
     <img class="object-cover w-full h-48 rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-l-lg"
       src="{{ include.post.photo }}" alt="{{ include.post.name }}">

@@ -9,7 +9,7 @@ photo: /assets/img/blog.svg
   <h2 class="text-4xl text-blue-800 dark:text-blue-400">Featured</h2>
   <div class="mt-4 mb-8 h-[1px] w-1/3 bg-blue-800 dark:bg-blue-400"></div>
 
-  <div class="grid grid-cols-1 sm:grid-cols-2 gap-x-2 gap-y-4">
+  <div class="grid grid-cols-1 lg:grid-cols-2 gap-x-2 gap-y-4">
     {% for post in site.posts %}
     {% if post.featured %}
     {% include post_card.html post=post %}

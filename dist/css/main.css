@@ -1203,6 +1203,41 @@ video {
   margin-bottom: 0;
 }
 
+.prose-slate {
+  --tw-prose-body: #334155;
+  --tw-prose-headings: #0f172a;
+  --tw-prose-lead: #475569;
+  --tw-prose-links: #0f172a;
+  --tw-prose-bold: #0f172a;
+  --tw-prose-counters: #64748b;
+  --tw-prose-bullets: #cbd5e1;
+  --tw-prose-hr: #e2e8f0;
+  --tw-prose-quotes: #0f172a;
+  --tw-prose-quote-borders: #e2e8f0;
+  --tw-prose-captions: #64748b;
+  --tw-prose-code: #0f172a;
+  --tw-prose-pre-code: #e2e8f0;
+  --tw-prose-pre-bg: #1e293b;
+  --tw-prose-th-borders: #cbd5e1;
+  --tw-prose-td-borders: #e2e8f0;
+  --tw-prose-invert-body: #cbd5e1;
+  --tw-prose-invert-headings: #fff;
+  --tw-prose-invert-lead: #94a3b8;
+  --tw-prose-invert-links: #fff;
+  --tw-prose-invert-bold: #fff;
+  --tw-prose-invert-counters: #94a3b8;
+  --tw-prose-invert-bullets: #475569;
+  --tw-prose-invert-hr: #334155;
+  --tw-prose-invert-quotes: #f1f5f9;
+  --tw-prose-invert-quote-borders: #334155;
+  --tw-prose-invert-captions: #94a3b8;
+  --tw-prose-invert-code: #fff;
+  --tw-prose-invert-pre-code: #cbd5e1;
+  --tw-prose-invert-pre-bg: rgb(0 0 0 / 50%);
+  --tw-prose-invert-th-borders: #475569;
+  --tw-prose-invert-td-borders: #334155;
+}
+
 .sr-only {
   position: absolute;
   width: 1px;
@@ -1401,6 +1436,10 @@ video {
   margin-bottom: auto;
 }
 
+.mr-3 {
+  margin-right: 0.75rem;
+}
+
 .block {
   display: block;
 }
@@ -1475,6 +1514,10 @@ video {
 
 .h-16 {
   height: 4rem;
+}
+
+.h-12 {
+  height: 3rem;
 }
 
 .min-h-screen {
@@ -2321,6 +2364,35 @@ h3 {
           text-decoration-line: underline;
 }
 
+.prose-a\:font-normal :is(:where(a):not(:where([class~="not-prose"] *))) {
+  font-weight: 400;
+}
+
+.prose-a\:text-gray-500 :is(:where(a):not(:where([class~="not-prose"] *))) {
+  --tw-text-opacity: 1;
+  color: rgb(107 114 128 / var(--tw-text-opacity));
+}
+
+.prose-a\:text-blue-600 :is(:where(a):not(:where([class~="not-prose"] *))) {
+  --tw-text-opacity: 1;
+  color: rgb(37 99 235 / var(--tw-text-opacity));
+}
+
+.prose-a\:text-gray-700 :is(:where(a):not(:where([class~="not-prose"] *))) {
+  --tw-text-opacity: 1;
+  color: rgb(55 65 81 / var(--tw-text-opacity));
+}
+
+.prose-a\:text-gray-600 :is(:where(a):not(:where([class~="not-prose"] *))) {
+  --tw-text-opacity: 1;
+  color: rgb(75 85 99 / var(--tw-text-opacity));
+}
+
+.hover\:prose-a\:text-blue-500 :is(:where(a):not(:where([class~="not-prose"] *))):hover {
+  --tw-text-opacity: 1;
+  color: rgb(59 130 246 / var(--tw-text-opacity));
+}
+
 .dark .dark\:prose-invert {
   --tw-prose-body: var(--tw-prose-invert-body);
   --tw-prose-headings: var(--tw-prose-invert-headings);
@@ -2338,6 +2410,18 @@ h3 {
   --tw-prose-pre-bg: var(--tw-prose-invert-pre-bg);
   --tw-prose-th-borders: var(--tw-prose-invert-th-borders);
   --tw-prose-td-borders: var(--tw-prose-invert-td-borders);
+}
+
+.dark .dark\:block {
+  display: block;
+}
+
+.dark .dark\:inline-flex {
+  display: inline-flex;
+}
+
+.dark .dark\:hidden {
+  display: none;
 }
 
 .dark .dark\:divide-gray-700 > :not([hidden]) ~ :not([hidden]) {
@@ -2415,6 +2499,21 @@ h3 {
   color: rgb(96 165 250 / var(--tw-text-opacity));
 }
 
+.dark .dark\:prose-a\:text-gray-400 :is(:where(a):not(:where([class~="not-prose"] *))) {
+  --tw-text-opacity: 1;
+  color: rgb(156 163 175 / var(--tw-text-opacity));
+}
+
+.dark .dark\:prose-a\:text-gray-200 :is(:where(a):not(:where([class~="not-prose"] *))) {
+  --tw-text-opacity: 1;
+  color: rgb(229 231 235 / var(--tw-text-opacity));
+}
+
+.dark .dark\:prose-a\:text-gray-300 :is(:where(a):not(:where([class~="not-prose"] *))) {
+  --tw-text-opacity: 1;
+  color: rgb(209 213 219 / var(--tw-text-opacity));
+}
+
 @media (min-width: 640px) {
   .sm\:mx-auto {
     margin-left: auto;
@@ -2424,6 +2523,14 @@ h3 {
   .sm\:mx-4 {
     margin-left: 1rem;
     margin-right: 1rem;
+  }
+
+  .sm\:h-9 {
+    height: 2.25rem;
+  }
+
+  .sm\:h-12 {
+    height: 3rem;
   }
 
   .sm\:grid-cols-2 {
@@ -2589,6 +2696,14 @@ h3 {
   .lg\:my-8 {
     margin-top: 2rem;
     margin-bottom: 2rem;
+  }
+
+  .lg\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .lg\:flex-row {
+    flex-direction: row;
   }
 
   .lg\:hover\:bg-blue-500:hover {
