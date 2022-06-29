@@ -79,7 +79,8 @@ on different skills acquired from _**week 1**_ to _**week 7**_.
 
 - Pre Internship Survey
 - Post Internship Survey
-  {%endcapture%}
+
+{%endcapture%}
 
 <div class="flex flex-col items-center w-full">
   <div class="flex flex-col max-w-4xl">
