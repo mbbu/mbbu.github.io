@@ -35,10 +35,17 @@ participants:
     description: This internship has been a life changing experience for me, the exposure of a research environment gave me the opportunity to understand some real world problems that are being solved in science. Interacting with successful scientists has motivated me to keep moving forward as a scientist, The mentorship program has been a great learning experience, the skills I have gained can attest to the expectations I had at the beginning, the tools and resources were up to date and easily accessible. The hands-free approach towards teaching has allowed me to work with High Performance computing (HPC), Programming, and Making use of Biological Databases and so on. I did a mini-project on RNA-seq data analysis in which I applied most of the above skills. Working on this project was an opportunity for me to obtain a hands-on experience in NGS data analysis. I would like to thank everyone who participated in creating this opportunity, it is a door to career growth for young scientists like me. I thank Dr. Caleb Kibet and Festus Nyasimi for their dedication in training and mentoring us.
 
 projects:
-  - name: Hello World
-    description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: ""
-  - name: Another One
-    description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: ""
+  - name: 16s Mini-Project
+    description: This project creates a workflow for 16SrRNA analysis for researchers.The 16S rRNA is a ribosomal RNA necessary for the synthesis of all prokaryotic proteins.
+    link: "https://github.com/mbbu/16S-mini-project"
+    participants:
+      - Bryan Abuchery
+      - Virginiah Kengara
+  - name: RNA Seq Mini-Project
+    description: RNA-seq (RNA-sequencing) is a technique that can examine the quantity and sequences of RNA in a sample using next-generation sequencing (NGS). Over the past few years, RNA sequencing (RNA-seq) has become an indispensable tool for transcriptome-wide analysis of differential gene expression and differential splicing of mRNAs. It is rapidly replacing gene expression microarrays in many labs as it lets you quantify, discover, and profile RNAs.
+    link: "https://github.com/mbbu/RNA-Seq-mini-project"
+    participants:
+      - Lenaroto. L. Lmelias
+      - Margaret Chifwete
+      - Fredrick Kebaso Mariita
 ---

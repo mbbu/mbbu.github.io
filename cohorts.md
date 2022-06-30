@@ -11,8 +11,7 @@ photo: /assets/img/people.svg
 
   <div class="grid grid-cols-1 sm:grid-cols-2 gap-x-4 gap-y-8">
     {% for cohort in site.cohorts %}
-      {% capture timeline %}{{ cohort.start_date | date: "%B %Y" }} - {{ cohort.end_date | date: "%B %Y"}}{% endcapture %}
-      {% include project_card.html name=cohort.name link=cohort.url photo=cohort.photo description=timeline %}
+      {% include cohort_card.html cohort=cohort %}
     {% endfor %}
   </div>
 </div>

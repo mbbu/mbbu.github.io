@@ -35,10 +35,20 @@ participants:
     description: Bioinformatics in Kenya is not well understood, The EANBiT program has exposed me to various Bioinformatics areas in computational biology and the biology aspect in Bioinformatics. Through the Bioinformatics Incubation program we have been able to work collaboratively to translate bioinformatics in real life situation, data in Kenya is huge and is yet to be handled and with the sudden adoption of innovation and technology this would now be easier to access, manage and monitor.
 
 projects:
-  - name: Hello World
-    description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: ""
-  - name: Another One
-    description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: ""
+  - name: Microsatellite mining in the transcriptome data
+    description: Microsatellites, also known as simple sequence repeats (SSRs), are highly polymorphic and generally neutral molecular markers that are still extensively used as genetic markers in evolution and ecology. Although the best quality markers are generated from the reference genome, this is not available for most organisms. Available genomic data, including the transcriptome, have been used.
+    link: "https://github.com/mbbu/Microsatelite_Mining"
+    participants:
+      - Kauthar Omar
+  - name: Variant Calling Pipeline
+    description: Variant Calling is the process of identyfing genetic variants across a population using sequence data. Following advancement in sequencing technologies, next generation data can be used to identify different types of variants such as Single Nucleotide Polymorphism/Variants(SNPs) and INDELs(Insertions and Deletions) within a genome of interest and infer their phenotypic impact on the organism.
+    link: "https://github.com/mbbu/variant-calling-pipeline"
+    participants:
+      - Rose Wambui
+      - Simeon Hebrew
+  - name: Fungi Identification
+    description: Fungi and bees have shown to have a symbiotic relationship. The fungi protects the bees from microbial attacks while also attacking pests such as ants. However on the flip side, some species are harmful to the bees and cause fatal diseases. Waves of highly infectious viruses sweeping through global honey bee populations have contributed to recent declines in honey bee health. Bees have been observed foraging on mushroom mycelium, suggesting that they may be deriving medicinal or nutritional value from fungi. Fungi are known to produce a wide array of chemicals with antimicrobial activity, including compounds active against bacteria, other fungi, or viruses.
+    link: "https://github.com/mbbu/Fungi_Identification"
+    participants:
+      - Christine Abura Asatsa
 ---

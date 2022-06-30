@@ -34,7 +34,7 @@ layout: default
 
   <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-16 align-middle">
     {% for project in page.projects %}
-    {% include project_card.html link=project.link name=project.name description=project.description %}
+    {% include project_card.html project=project %}
     {% endfor %}
   </div>
 </div>
