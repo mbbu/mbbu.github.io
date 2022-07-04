@@ -1,10 +1,10 @@
 ---
 title: Parcelli Jepchirchir
-photo: /assets/img/illustration.svg
+photo: /assets/img/Parcelli.jpg
 tags: My Internship journey
 featured: false
 author: Parcelli Jepchirchir
-author_photo: /assets/img/profile.svg
+author_photo: /assets/img/Parcelli.jpg
 excerpt_separator: <!--main-->
 ---
 
