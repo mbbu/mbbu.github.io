@@ -1,7 +1,7 @@
 ---
 title: Nelly Wambui
 photo: /assets/img/illustration.svg
-tags: far away
+tags: My Internship journey
 featured: false
 author: Nelly Wambui
 author_photo: /assets/img/profile.svg
