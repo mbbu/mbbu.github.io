@@ -10,7 +10,7 @@ excerpt_separator: <!--main-->
 
 <!--main-->
 
-My name is Simeon Hebrew and I am currently in my first year of my Masters program in Life Sciences and Health (Genetics, Genomics, Epigenetics and Evolution track) at Université Paris-Saclay in France.
+My name is Simeon Hebrew, currently in my first year of my Masters program in Life Sciences and Health (Genetics, Genomics, Epigenetics and Evolution track) at Université Paris-Saclay in France.
 
 During my final year of undergraduate studies, I was excited to learn about the existence of an intersection between computational methods and biological data; so much in fact that I ended up taking an *in silico* approach to my final year project.
 
