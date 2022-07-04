@@ -8,9 +8,11 @@ author_photo: /assets/img/profile.svg
 excerpt_separator: <!--main-->
 ---
 
+My journey as a Bioinformatics Intern Student and Job Perspectives.
+
 <!--main-->
 
-My journey as a Bioinformatics Intern Student and Job Perspectives. 
+![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi1.rgstatic.net%2Fii%2Fprofile.image%2F971775269675008-1608700687370_Q128%2FBryan-Abuchery-2.jpg&imgrefurl=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FBryan-Abuchery-2&tbnid=gG5g1daCR8Bw-M&vet=12ahUKEwiZxYCqvt_4AhXihM4BHUfgC1QQMygAegQIARAf..i&docid=ru5oIwIcMxr2yM&w=128&h=128&q=Bryan%20Abuchery&ved=2ahUKEwiZxYCqvt_4AhXihM4BHUfgC1QQMygAegQIARAf)
 
 My interest in Bioinformatics began when I was an intern at the Basic Sciences Laboratory in Kisumu’s Kenya-USA joint Walter Reed Project housed by KEMRI. There, I had some exposure to sequencing (specifically, Illumina Sequencing), whence I became so fascinated with the idea of sequencing data analysis. Immediately after this internship, I applied for EANBit Masters Program 2020 scholarship program at Pwani University, which I did not get. I was perhaps not baked enough yet. However, I was able to get into ICIPE’s Bioinformatics Internship program where I was introduced into bioinformatics, serving as a catalyst for my bioinformatics enthusiasm. There, I received training on what is, and how to handle data analysis. It was while I was there that I got another opportunity to pursue a Masters in Genetics scholarship offered by the São Paulo State University in Brazil. 
 
