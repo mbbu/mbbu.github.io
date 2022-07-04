@@ -4,7 +4,7 @@ photo: /assets/img/Bryan.jpg
 tags: My Internship journey
 featured: false
 author: Bryan Abuchery
-author_photo:/assets/img/Bryan.jpg
+author_photo: /assets/img/Bryan.jpg
 excerpt_separator: <!--main-->
 ---
 
