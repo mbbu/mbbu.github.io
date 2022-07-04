@@ -1,10 +1,10 @@
 ---
 title: Rose Wambui
-photo: /assets/img/illustration.svg
+photo: /assets/img/Rose.jpg
 tags: My Internship journey
 featured: false
 author: Rose Wambui
-author_photo: /assets/img/profile.svg
+author_photo: /assets/img/Rose.jpg
 excerpt_separator: <!--main-->
 ---
 
@@ -18,8 +18,6 @@ On joining the program, my expectations of the bioinformatics internship were to
 
 The bioinformatics team at *icipe* is not only limited to trainers and supervisors who guided me, but also a group of EANBIT’s Master’s students in Bioinformatics. My interaction with the highly motivated MSc. students further enhanced my understanding of some concepts in bioinformatics and even guided me in troubleshooting tricks whenever I encountered some challenges. 
 
-The best part of the internship program was the problem-solving skills that I gained by engaging in the 16SrRNA analysis for H3ABionet accreditation and the development of a variant calling- pipeline for microbes using GATK. I also delighted in participating in the journal club sessions 
-
-that were held biweekly on Thursday. These sessions were key to me as I gained insights and knowledge on different topics. I was quite fascinated by the presentation on Molecular digital data storage using DNA. Other than journal club sessions, was the Monday update meeting which aided me in utilizing a schedule plan and being goal-oriented. 
+The best part of the internship program was the problem-solving skills that I gained by engaging in the 16SrRNA analysis for H3ABionet accreditation and the development of a variant calling- pipeline for microbes using GATK. I also delighted in participating in the journal club sessions that were held biweekly on Thursday. These sessions were key to me as I gained insights and knowledge on different topics. I was quite fascinated by the presentation on Molecular digital data storage using DNA. Other than journal club sessions, was the Monday update meeting which aided me in utilizing a schedule plan and being goal-oriented. 
 
 This internship experience laid a strong foundation for me in bioinformatics and genomics and helped me in transitioning and securing other opportunities in my career. As I write this, I am an Assistant Research Officer at KEMRI-Wellcome Trust Research Program, working with Professor Philip Bejon’s lab, leveraging control human infectious studies in studying the efficacy and safety of Malaria and Shigella vaccines. Additionally, I am also enrolled in an African Genomic Medicine Training (AGMT) 2022 course organized by H3Abionet. I am deeply grateful to the EANBIT program, and *icipe* for the incredible internship opportunity. 
