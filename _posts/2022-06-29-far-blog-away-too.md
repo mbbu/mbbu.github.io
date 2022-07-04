@@ -14,9 +14,7 @@ Far far away, behind the word mountains, far from the countries Vokalia and Cons
 
 # Far Far Away Too
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia.
-
-It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+“Coding has always fascinated me. Being from an Applied Bioengineering (genomics-based) background, I was actively looking for a bridge between the two. The internship provided an opportunity to learn and polish my programming skills under guidance and see its application in multi-omics data processing using real-life problems. Moreover, it cultivated a self-learning discipline that has played a key role in continuously solidifying and expanding my Bioinformatics knowledge. The skills and experience gained during the internship gave me a competitive advantage when applying for Bioinformatics opportunities hence paving the way to getting the EANBiT master’s fellowship. The internship increased my resilience and self-discipline which still plays a key role in my MSc Bioinformatics journey.”
 
 ## A Little Farther
 
