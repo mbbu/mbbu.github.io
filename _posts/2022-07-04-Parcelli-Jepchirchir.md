@@ -1,5 +1,6 @@
 ---
 title: Parcelli Jepchirchir
+photo: /assets/img/Parcelli.jpg
 tags: My Internship journey
 featured: false
 author: Parcelli Jepchirchir
@@ -8,8 +9,6 @@ excerpt_separator: <!--main-->
 ---
 
 <!--main-->
-
-![](https://github.com/mbbu/mbbu.github.io/blob/main/assets/img/Parcelli.jpg)
 
 If I were to choose a word to describe my bioinformatics internship at International Centre for Insect Physiology and Ecology, that word would be eye-opening! 
 
