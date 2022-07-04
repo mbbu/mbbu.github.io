@@ -10,9 +10,6 @@ excerpt_separator: <!--main-->
 
 <!--main-->
 
-# Lorem Ipsum
-
-## Luka Lmelias
 My name is Luka Lmelias, I am now studying MSc Bioinformatics on full scholarship at Wageningen University in The Netherlands. I was offered this opportunity after completing a Bioinformatics internship at ICIPE. This Internship was probably the most important transition point in my career, it was the launching pad for my journey in bioinformatics. First, this was where I got introduced to real bioinformatics research. This was very important in opening my research eyes to see how bioinformatics can be applied to improve human well being in terms of agriculture and health care.  
 
 Before then, I was passionate about bioinformatics, but I did not have a clear picture of what it was, or how exactly it is being applied to solve real world problems, I didn't even have the picture of how powerful it is in advancing our understanding of biology. Towards the end of the internship, I applied for admission into MSc Bioinformatics at Wageningen University, and after a few months I was accepted and even more exciting, they invited me to apply for a full scholarship that they were offering to 10 African students (African Scholarship Programme). It was a very competitive program where the applicants were to 
