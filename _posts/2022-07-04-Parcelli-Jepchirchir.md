@@ -10,6 +10,8 @@ excerpt_separator: <!--main-->
 
 <!--main-->
 
+![](https://github.com/mbbu/mbbu.github.io/blob/main/assets/img/Parcelli.jpg)
+
 If I were to choose a word to describe my bioinformatics internship at International Centre for Insect Physiology and Ecology, that word would be eye-opening! 
 
 I joined the mentorship and incubation program on 3rd June 2021 with the hope of getting to learn more about bioinformatics that was just slightly introduced to me in my undergraduate. I 
