@@ -1,6 +1,6 @@
 ---
 title: EANBiT fellows
-photo: 
+photo: ![](https://github.com/mbbu/mbbu.github.io/blob/main/assets/img/eanbit-logo-300px.png)
 tags: My Internship journey
 featured: true
 author: Kauthar Omar, Fredrick Kebaso, Wilson Mudaki, Brenda Kamau
