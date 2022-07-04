@@ -2,8 +2,8 @@
 title: Nelly Wambui
 photo: /assets/img/illustration.svg
 tags: far away
-featured: true
-author: Nobody Knows
+featured: false
+author: Nelly Wambui
 author_photo: /assets/img/profile.svg
 excerpt_separator: <!--main-->
 ---
