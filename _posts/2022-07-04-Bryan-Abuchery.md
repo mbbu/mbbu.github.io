@@ -1,10 +1,10 @@
 ---
 title: Bryan Abuchery
-photo: /assets/img/illustration.svg
+photo: /assets/img/Bryan.jpg
 tags: My Internship journey
 featured: false
 author: Bryan Abuchery
-author_photo: /assets/img/profile.svg
+author_photo:/assets/img/Bryan.jpg
 excerpt_separator: <!--main-->
 ---
 
