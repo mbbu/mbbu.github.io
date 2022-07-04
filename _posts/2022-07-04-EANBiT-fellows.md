@@ -1,6 +1,6 @@
 ---
 title: EANBiT fellows
-photo: /assets/img/illustration.svg
+photo: 
 tags: My Internship journey
 featured: true
 author: Kauthar Omar, Fredrick Kebaso, Wilson Mudaki, Brenda Kamau
@@ -21,13 +21,19 @@ Coding has always fascinated me. Being from an Applied Bioengineering (genomics-
 
 ## Fredrick Kebaso
 
+![](https://i.imgur.com/C8iuT1s.jpg)
+
 The internship training demystified my career path in bioinformatics. The introduction to Python programming skills, Linux, R, and Data analysis skills, and collaborative mini-project on RNASeq motivated me to enroll in short courses in Bioinformatics such as the NGS training by H3BioNet after the internship. Additionally, I got to interact with experts in the field through the Bioinformatics Hub of Kenya. My quest to acquire more skills kept me on my toes as I sought to advance my skills to a Master's level. Following highly competitive interviews, I emerged as one of the beneficiaries of the EANBiT fellowship. I am grateful for the support towards achieving my career goal. I look forward to sharing my experiences with the upcoming Bioinformaticians.
 
 ## Brenda Kamau
 
-The internship opportunity laid a foundation for my current career in Bioinformatics. It was designed to equip me with Bioinformatics skills. I got to learn programming languages such as Python and R, Introduction to Biological databases. It helped me improve my communication skills through journal presentations and project progress meetings. I was privileged to collaborate on a mini-project, where I got to put the gained skills into practice through real-time analysis of data. The four months of exposure and mentorship turned me into a Bioinformatics enthusiast and stirred my interest even more to become an authority in the field of Bioinformatics. This led to my application and acceptance as an EANBiT masters fellow
+![](https://i.imgur.com/vJhOqOQ.jpg)
+
+The internship opportunity laid a foundation for my current career in Bioinformatics. It was designed to equip me with Bioinformatics skills. I got to learn programming languages such as Python and R as well as an introduction to Biological databases. It helped me improve my communication skills through journal club presentations and project progress meetings. I was privileged to collaborate on a mini-project, where I got to put the gained skills into practice through real-time analysis of data. The four months of exposure and mentorship turned me into a Bioinformatics enthusiast and stirred my interest even more to become an authority in the field of Bioinformatics. This led to my application and acceptance as an EANBiT masters fellow.
 
 ## Wilson Mudaki
+
+![](https://i.imgur.com/Fz7symw.jpg)
 
 With substantial skills in programming, the Internship served as a platform for me to reconcile my knowledge in Molecular Biology and Computing skills. The introductory training on the concepts of bioinformatics was key in putting my career vision into a clear perspective. It was from the internship program that I established that my interests were more aligned to building software involved in bioinformatics research. From the internship, I learned one key lesson, no single person ever has all the answers to a problem and it’s only by working together and appreciating the different perspectives and ideologies others bring to the table that we get to put the whole big picture together. Currently, I am pursuing my MSc in Bioinformatics, with the hope of eventually fulfilling my long-term vision of becoming a Bioinformatics engineer, a career path and vision I only got to establish during my time as an intern.
 
