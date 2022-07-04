@@ -1,6 +1,5 @@
 ---
 title: Parcelli Jepchirchir
-photo: /assets/img/Parcelli.jpg
 tags: My Internship journey
 featured: false
 author: Parcelli Jepchirchir
