@@ -1,7 +1,7 @@
 ---
 title: EANBiT fellows
 photo: /assets/img/illustration.svg
-tags: far away too
+tags: My Internship journey
 featured: false
 author: Kauthar Omar, Fredrick Kebaso, Wilson Mudaki, Brenda Kamau
 author_photo: /assets/img/profile.svg
