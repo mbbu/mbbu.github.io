@@ -1,5 +1,5 @@
 ---
-title: Lorem Ipsum
+title: Simeon Hebrew
 photo: /assets/img/illustration.svg
 tags: lorem ipsum
 featured: false
@@ -8,49 +8,16 @@ author_photo: /assets/img/profile.svg
 excerpt_separator: <!--main-->
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus, nulla non interdum condimentum, arcu metus dictum enim, eget dapibus diam urna ut tellus. Quisque leo sem, volutpat quis sagittis et, cursus in nibh. Donec turpis eros, efficitur et augue nec, commodo rutrum ipsum. Aliquam sagittis dapibus ligula, sit amet vestibulum augue posuere ut.
-
 <!--main-->
 
-# Lorem Ipsum
+My name is Simeon Hebrew and I am currently in my first year of my Masters program in Life Sciences and Health (Genetics, Genomics, Epigenetics and Evolution track) at Université Paris-Saclay in France.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus, nulla non interdum condimentum, arcu metus dictum enim, eget dapibus diam urna ut tellus. Quisque leo sem, volutpat quis sagittis et, cursus in nibh. Donec turpis eros, efficitur et augue nec, commodo rutrum ipsum. Aliquam sagittis dapibus ligula, sit amet vestibulum augue posuere ut. Praesent rhoncus lobortis lobortis. Sed ipsum eros, viverra ac dignissim eu, varius ac sapien. Fusce nec libero eget nisi consequat efficitur sit amet a dolor.
+During my final year of undergraduate studies, I was excited to learn about the existence of an intersection between computational methods and biological data; so much in fact that I ended up taking an *in silico* approach to my final year project.
 
-<figure>
-  <img src="/assets/img/illustration.svg" alt="lorem">
-  <caption>Lorem ipsum dolor sit amet.</caption>
-</figure>
+In effort to fulfill this emerging curiosity, I pursued a self-teaching schedule majorly on the foundational concepts of programming in languages which are renowned in the bioinformatics community such as perl and python. This coincided with my timely acceptance into the EANBiT Bioinformatics incubation program based at the International Centre of Insect Physiology and Ecology (ICIPE) which presented the perfect opportunity for me to solidify the self-taught introductory elements as well as learn and apply new knowledge on bioinformatics under the guidance of experienced instructors. To achieve this, I developed a roadmap which enabled me to prioritize my areas of learning in tandem with the proposed internship timeline . These were divided into learning collaborative and version control tools, understanding programming frameworks such as Bash and python, analyzing genomic data using dedicated tools and finally applying the mentioned aspects in an assigned mini-project. This was supplemented by key modules such as navigating high performance computing environments, workflow management platforms such as Galaxy and Nextflow, journal club presentations that allowed us to practise scientific delivery of published research and the concept of open science. As steep as the learning curve was in the time allocated, the journey was priceless. The challenges encountered offered an ideal opportunity to harness problem-solving skills both individually and collectively with my colleagues.
 
-## Lorem ipsum dolor sit amet.
+The perfect measure of skill-retention was the mini-project that we (Rose and I) were tasked with that aimed to examine the role of sylvatic transmission of African Animal Trypanosomiasis in livestock by quantifying wildlife-to-livestock transmission in Shimba Hills National Park by genotyping individual parasites using Whole Genome Sequencing (WGS) data analysis. Collaborative working was one of the primary skills that I enhanced during this period. It was essential to completely understand the scope of the project, split tasks, set short-term goals and work towards the realization of these goals. This was complemented by a reinforcement in skills such as how to benchmark bioinformatics tools for analysis , developing reproducible  workflows using Nextflow, data visualization using R and scientific reporting. During this time, I had the chance to offer assistance to bioinformatics novels that had enrolled into the Introduction to Bioinformatics course organized by H3ABionet and this served as a helpful platform to share the knowledge I had acquired.
 
-Morbi posuere maximus mi, vitae sollicitudin nulla malesuada vitae. Curabitur vel felis id massa viverra tempus. Praesent at porta ex. Vestibulum sit amet arcu vel quam semper mattis. Aliquam erat volutpat. Nulla tempus placerat quam eu ullamcorper. Aliquam nulla velit, euismod sed scelerisque eget, iaculis sed turpis. Praesent laoreet et odio ut facilisis.
+This internship proved to greatly influence my academic and career progression as I inclined towards looking for postgraduate opportunities that were centered on genomics and bioinformatics.Fortunately enough, I was accepted into the earlier mentioned Masters program and so far, I have thoroughly applied the skills I obtained during my internship to actively participate in bioinformatics lectures and practical sessions. I have also used tools such as R to analyze data in wet-lab settings hence proving the universality of the language. This experience not only helped me get accepted to a Masters program, but also gave me confidence to take up bioinformatics-oriented projects such as my current Masters internship which is based on using ATAC-Seq to characterize the regulatory epigenetic landscape of *Platynereis dumerilii* during its posterior regeneration.
 
-```python
-print("Hello World")
-```
-
-### Lorem ipsum dolor sit amet consectetur.
-
-In hac habitasse platea dictumst. Nam tempor vehicula ornare. Mauris mollis neque at volutpat rutrum. Nullam pharetra fringilla lacinia. In eu dictum dui, sit amet porta augue. Mauris aliquam egestas tortor, non suscipit purus maximus quis. Curabitur malesuada ac diam lobortis porttitor. Integer turpis enim, vestibulum non lectus sed, varius auctor elit. Etiam id nulla eget lectus pretium blandit eget a est. Nulla facilisi. Donec id tortor euismod, iaculis nunc id, laoreet tortor. Aliquam rhoncus lectus sit amet sem tincidunt tristique.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni eligendi atque adipisci exercitationem beatae nemo vitae maiores possimus deleniti aliquid?
-
-## Lorem ipsum dolor sit amet consectetur adipisicing.
-
-Integer quis pulvinar lorem. Cras interdum, urna sit amet scelerisque rutrum, orci sapien luctus lectus, nec vestibulum est augue et urna. Sed convallis nisi ac elit malesuada faucibus. Quisque ligula felis, accumsan sit amet magna tempor, varius bibendum ipsum. Nulla facilisi. Donec vitae sollicitudin ipsum. In vitae neque est.
-
-1. Lorem.
-2. Lorem, ipsum.
-3. Lorem, ipsum dolor.
-4. Lorem ipsum dolor sit.
-5. Lorem ipsum dolor sit amet.
-
-Ut ligula neque, ullamcorper eu vestibulum sit amet, cursus a enim. Sed ligula leo, ullamcorper sit amet lorem in, venenatis laoreet sem. Nunc laoreet dignissim viverra. Integer auctor eu dui eu maximus. Integer ut urna nec nulla efficitur luctus eu eget quam. Pellentesque tempus magna non libero vestibulum euismod. Nulla in molestie dolor, nec mattis nisi. Donec aliquet urna in tortor condimentum vehicula. In et convallis velit, finibus vestibulum orci. Nulla in magna facilisis, auctor massa a, consequat felis. Duis tempor augue id arcu commodo vulputate. Nam quis odio venenatis magna interdum dictum nec dictum turpis. Cras mattis turpis urna, non dapibus justo malesuada nec.
-
-- Lorem.
-- Lorem, ipsum.
-- Lorem, ipsum dolor.
-- Lorem ipsum dolor sit.
-- Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed provident obcaecati rerum ipsa sequi distinctio cum, laudantium similique vitae ratione maxime voluptate excepturi cupiditate debitis atque eius blanditiis nostrum recusandae.
+I am looking forward to seeing what lies ahead as I continue improving my computational skills and understanding how to continuously apply them in the context of biological data analysis.
