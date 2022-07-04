@@ -1,5 +1,6 @@
 ---
 title: EANBiT fellows
+photo: 
 tags: My Internship journey
 featured: true
 author: Kauthar Omar, Fredrick Kebaso, Wilson Mudaki, Brenda Kamau
