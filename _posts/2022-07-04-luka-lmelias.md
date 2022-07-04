@@ -2,7 +2,7 @@
 title: Luka Lmelias
 photo: /assets/img/illustration.svg
 tags: lorem ipsum
-featured: true
+featured: false
 author: Nobody Knows
 author_photo: /assets/img/profile.svg
 excerpt_separator: <!--main-->
