@@ -1,9 +1,9 @@
 ---
-title: Luka Lmelias
+title: Simeon Hebrew
 photo: /assets/img/illustration.svg
 tags: lorem ipsum
 featured: false
-author: Nobody Knows
+author: Simeon Hebrew
 author_photo: /assets/img/profile.svg
 excerpt_separator: <!--main-->
 ---
