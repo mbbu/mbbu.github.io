@@ -3,7 +3,7 @@ title: EANBiT fellows
 photo: /assets/img/illustration.svg
 tags: far away too
 featured: false
-author: Nobody Knows
+author: Kauthar Omar, Fredrick Kebaso, Wilson Mudaki, Brenda Kamau
 author_photo: /assets/img/profile.svg
 excerpt_separator: <!--main-->
 ---
