@@ -8,6 +8,8 @@ author_photo: /assets/img/profile.svg
 excerpt_separator: <!--main-->
 ---
 
+<!--main-->
+
 ## Luka Lmelias
 My name is Luka Lmelias, I am now studying MSc Bioinformatics on full scholarship at Wageningen University in The Netherlands. I was offered this opportunity after completing a Bioinformatics internship at ICIPE. This Internship was probably the most important transition point in my career, it was the launching pad for my journey in bioinformatics. First, this was where I got introduced to real bioinformatics research. This was very important in opening my research eyes to see how bioinformatics can be applied to improve human well being in terms of agriculture and health care.  
 
@@ -18,12 +20,6 @@ demonstrate how their respective fields of study are important or will be game c
 Second, we received good hands-on training especially in programming in python, R, and basic understanding of Linux OS. This proved to be handy for me now that I am deep into bioinformatics, most of the courses here assume good programming knowledge, the education system is quite different here, learning is like a marathon, and given I am from a biological background, it is quite a task to keep up with a masters in basically computer science. If I did not receive some introductory training into some of the foundational concepts in programming, I doubt I could have kept up the rate of learning here. I am forever grateful to Dr Caleb and Festus for the time and energy they spent in training us.  
 
 We were the first cohort of the bioinformatics internship at ICIPE and two out of five won prestigious full scholarships abroad even before completing the internships. This is but a highlight of how impactful an opportunity of four months can be to the careers of young scientists like me. Thank you ICIPE, thank you NIH Fogarty and every one involved in creating such an opportunity."
-
-<!--main-->
-
-# Lorem Ipsum
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus, nulla non interdum condimentum, arcu metus dictum enim, eget dapibus diam urna ut tellus. Quisque leo sem, volutpat quis sagittis et, cursus in nibh. Donec turpis eros, efficitur et augue nec, commodo rutrum ipsum. Aliquam sagittis dapibus ligula, sit amet vestibulum augue posuere ut. Praesent rhoncus lobortis lobortis. Sed ipsum eros, viverra ac dignissim eu, varius ac sapien. Fusce nec libero eget nisi consequat efficitur sit amet a dolor.
 
 <figure>
   <img src="/assets/img/illustration.svg" alt="lorem">
