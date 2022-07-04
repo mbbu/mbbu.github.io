@@ -1,5 +1,5 @@
 ---
-title: Far Far Away
+title: Nelly Wambui
 photo: /assets/img/illustration.svg
 tags: far away
 featured: true
@@ -8,11 +8,7 @@ author_photo: /assets/img/profile.svg
 excerpt_separator: <!--main-->
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean
-
 <!--main-->
-
-## Nelly Wambui
 
 My name is Nelly Wambui. A friend of mine encouraged me to apply for the internship as it was quite helpful to her growth as an upcoming scientist. The moment I became a bioinformatics intern I felt like a fish in new waters, capable to swim, but we do feel a bit lost in new places, right? The mentors gave us so much guidance and in the end I not only grew in my bioinformatics skills but also in finding a clear career path. The internship was engaging  through the various mini-projects and trainings that helped us know what bioinformatics really entails. 
 
