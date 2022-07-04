@@ -1,5 +1,5 @@
 ---
-title: Lorem Ipsum
+title: Luka Lmelias
 photo: /assets/img/illustration.svg
 tags: lorem ipsum
 featured: false
@@ -7,8 +7,6 @@ author: Nobody Knows
 author_photo: /assets/img/profile.svg
 excerpt_separator: <!--main-->
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus, nulla non interdum condimentum, arcu metus dictum enim, eget dapibus diam urna ut tellus. Quisque leo sem, volutpat quis sagittis et, cursus in nibh. Donec turpis eros, efficitur et augue nec, commodo rutrum ipsum. Aliquam sagittis dapibus ligula, sit amet vestibulum augue posuere ut.
 
 <!--main-->
 
