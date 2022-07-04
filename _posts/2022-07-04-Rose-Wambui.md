@@ -1,7 +1,7 @@
 ---
 title: Rose Wambui
 photo: /assets/img/illustration.svg
-tags: lorem ipsum
+tags: My Internship journey
 featured: false
 author: Rose Wambui
 author_photo: /assets/img/profile.svg
