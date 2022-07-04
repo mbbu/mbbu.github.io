@@ -1,10 +1,10 @@
 ---
 title: Simeon Hebrew
-photo: /assets/img/illustration.svg
+photo: /assets/img/Hebrew.jpg
 tags: My Internship journey
 featured: false
 author: Simeon Hebrew
-author_photo: /assets/img/profile.svg
+author_photo: /assets/img/Hebrew.jpg
 excerpt_separator: <!--main-->
 ---
 
