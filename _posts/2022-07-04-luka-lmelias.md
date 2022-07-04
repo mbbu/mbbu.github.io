@@ -1,9 +1,9 @@
 ---
 title: Luka Lmelias
 photo: /assets/img/illustration.svg
-tags: lorem ipsum
+tags: My Internship journey
 featured: false
-author: Nobody Knows
+author: Luka Lmelias
 author_photo: /assets/img/profile.svg
 excerpt_separator: <!--main-->
 ---
