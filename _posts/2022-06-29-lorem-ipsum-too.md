@@ -1,56 +1,19 @@
 ---
-title: Lorem Ipsum Too
+title: Bryan Abuchery
 photo: /assets/img/illustration.svg
 tags: lorem ipsum
 featured: false
-author: Nobody Knows
+author: Bryan Abuchery
 author_photo: /assets/img/profile.svg
 excerpt_separator: <!--main-->
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus, nulla non interdum condimentum, arcu metus dictum enim, eget dapibus diam urna ut tellus. Quisque leo sem, volutpat quis sagittis et, cursus in nibh. Donec turpis eros, efficitur et augue nec, commodo rutrum ipsum. Aliquam sagittis dapibus ligula, sit amet vestibulum augue posuere ut.
-
 <!--main-->
 
-# Lorem Ipsum Too
+My journey as a Bioinformatics Intern Student and Job Perspectives. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus, nulla non interdum condimentum, arcu metus dictum enim, eget dapibus diam urna ut tellus. Quisque leo sem, volutpat quis sagittis et, cursus in nibh. Donec turpis eros, efficitur et augue nec, commodo rutrum ipsum. Aliquam sagittis dapibus ligula, sit amet vestibulum augue posuere ut. Praesent rhoncus lobortis lobortis. Sed ipsum eros, viverra ac dignissim eu, varius ac sapien. Fusce nec libero eget nisi consequat efficitur sit amet a dolor.
+My interest in Bioinformatics began when I was an intern at the Basic Sciences Laboratory in Kisumu’s Kenya-USA joint Walter Reed Project housed by KEMRI. There, I had some exposure to sequencing (specifically, Illumina Sequencing), whence I became so fascinated with the idea of sequencing data analysis. Immediately after this internship, I applied for EANBit Masters Program 2020 scholarship program at Pwani University, which I did not get. I was perhaps not baked enough yet. However, I was able to get into ICIPE’s Bioinformatics Internship program where I was introduced into bioinformatics, serving as a catalyst for my bioinformatics enthusiasm. There, I received training on what is, and how to handle data analysis. It was while I was there that I got another opportunity to pursue a Masters in Genetics scholarship offered by the São Paulo State University in Brazil. 
 
-<figure>
-  <img src="/assets/img/illustration.svg" alt="lorem">
-  <caption>Lorem ipsum dolor sit amet.</caption>
-</figure>
+The training that I received at ICIPE played a big role in helping me prepare for my exams and interviews for my masters degree. With the basic skills and knowledge that I received there, I finally understood that it was not enough to just produce data. Generated data had to be collected, analyzed and presented in ways that justified doing researches or experiments in the first place. Currently I have been able to apply some of the basic skills learnt to do some data analysis such as exploration of phylogenies of some of the important genes being studied (Python and Bash), manipulation of different organism treatment data using R software and code archiving and/or sharing on GitHub. While I have not been able to focus exclusively on Bioinformatics as a study course yet, I feel that these skills have just opened me up to huge potentials in terms of future possibilities and job perspectives. 
 
-## Lorem ipsum dolor sit amet.
-
-Morbi posuere maximus mi, vitae sollicitudin nulla malesuada vitae. Curabitur vel felis id massa viverra tempus. Praesent at porta ex. Vestibulum sit amet arcu vel quam semper mattis. Aliquam erat volutpat. Nulla tempus placerat quam eu ullamcorper. Aliquam nulla velit, euismod sed scelerisque eget, iaculis sed turpis. Praesent laoreet et odio ut facilisis.
-
-```python
-print("Hello World")
-```
-
-### Lorem ipsum dolor sit amet consectetur.
-
-In hac habitasse platea dictumst. Nam tempor vehicula ornare. Mauris mollis neque at volutpat rutrum. Nullam pharetra fringilla lacinia. In eu dictum dui, sit amet porta augue. Mauris aliquam egestas tortor, non suscipit purus maximus quis. Curabitur malesuada ac diam lobortis porttitor. Integer turpis enim, vestibulum non lectus sed, varius auctor elit. Etiam id nulla eget lectus pretium blandit eget a est. Nulla facilisi. Donec id tortor euismod, iaculis nunc id, laoreet tortor. Aliquam rhoncus lectus sit amet sem tincidunt tristique.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni eligendi atque adipisci exercitationem beatae nemo vitae maiores possimus deleniti aliquid?
-
-## Lorem ipsum dolor sit amet consectetur adipisicing.
-
-Integer quis pulvinar lorem. Cras interdum, urna sit amet scelerisque rutrum, orci sapien luctus lectus, nec vestibulum est augue et urna. Sed convallis nisi ac elit malesuada faucibus. Quisque ligula felis, accumsan sit amet magna tempor, varius bibendum ipsum. Nulla facilisi. Donec vitae sollicitudin ipsum. In vitae neque est.
-
-1. Lorem.
-2. Lorem, ipsum.
-3. Lorem, ipsum dolor.
-4. Lorem ipsum dolor sit.
-5. Lorem ipsum dolor sit amet.
-
-Ut ligula neque, ullamcorper eu vestibulum sit amet, cursus a enim. Sed ligula leo, ullamcorper sit amet lorem in, venenatis laoreet sem. Nunc laoreet dignissim viverra. Integer auctor eu dui eu maximus. Integer ut urna nec nulla efficitur luctus eu eget quam. Pellentesque tempus magna non libero vestibulum euismod. Nulla in molestie dolor, nec mattis nisi. Donec aliquet urna in tortor condimentum vehicula. In et convallis velit, finibus vestibulum orci. Nulla in magna facilisis, auctor massa a, consequat felis. Duis tempor augue id arcu commodo vulputate. Nam quis odio venenatis magna interdum dictum nec dictum turpis. Cras mattis turpis urna, non dapibus justo malesuada nec.
-
-- Lorem.
-- Lorem, ipsum.
-- Lorem, ipsum dolor.
-- Lorem ipsum dolor sit.
-- Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed provident obcaecati rerum ipsa sequi distinctio cum, laudantium similique vitae ratione maxime voluptate excepturi cupiditate debitis atque eius blanditiis nostrum recusandae.
+In future, I intend to fully pursue Bioinformatics in its purity and keep growing my data analysis and presentation skills. I have been and always will be enthralled with genetic data and how these can be used to add onto current knowledge which would greatly help in finding some of the solutions of problems that have plagued us. In my mind, I feel that the training program received at ICIPE has opened up my mind to see data collection (wet lab) and bioinformatics (dry lab) as parts of a whole and therefore greatly expanded my options for a career path as a scientist. The demand for professionals in bioinformaticians is on the rise, even with the rise of data being generated as we get to understand more the world around us. Already I am eying excellent bioinformatics institutions such as the Max Planck Institute in Germany to help me prepare for the future. Who knows, with bioinformatics, the possibilities are limitless!
