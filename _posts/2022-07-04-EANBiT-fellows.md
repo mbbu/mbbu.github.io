@@ -2,7 +2,7 @@
 title: EANBiT fellows
 photo: /assets/img/illustration.svg
 tags: My Internship journey
-featured: false
+featured: true
 author: Kauthar Omar, Fredrick Kebaso, Wilson Mudaki, Brenda Kamau
 author_photo: /assets/img/profile.svg
 excerpt_separator: <!--main-->
