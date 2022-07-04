@@ -3,7 +3,7 @@ title: Luka Lmelias
 photo: /assets/img/illustration.svg
 tags: lorem ipsum
 featured: false
-author: Nobody Knows
+author: Luka Lmelias
 author_photo: /assets/img/profile.svg
 excerpt_separator: <!--main-->
 ---
@@ -19,4 +19,5 @@ demonstrate how their respective fields of study are important or will be game c
 Second, we received good hands-on training especially in programming in python, R, and basic understanding of Linux OS. This proved to be handy for me now that I am deep into bioinformatics, most of the courses here assume good programming knowledge, the education system is quite different here, learning is like a marathon, and given I am from a biological background, it is quite a task to keep up with a masters in basically computer science. If I did not receive some introductory training into some of the foundational concepts in programming, I doubt I could have kept up the rate of learning here. I am forever grateful to Dr Caleb and Festus for the time and energy they spent in training us.  
 
 We were the first cohort of the bioinformatics internship at ICIPE and two out of five won prestigious full scholarships abroad even before completing the internships. This is but a highlight of how impactful an opportunity of four months can be to the careers of young scientists like me. Thank you ICIPE, thank you NIH Fogarty and every one involved in creating such an opportunity."
+
 
