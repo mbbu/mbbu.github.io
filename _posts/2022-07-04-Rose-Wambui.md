@@ -8,7 +8,7 @@ author_photo: /assets/img/Rose.jpg
 excerpt_separator: <!--main-->
 ---
 
-My journey as a Bioinformatics Intern Student and Career Perspectives.
+My journey as a Bioinformatics Intern and Career Perspectives.
 
 <!--main-->
 
