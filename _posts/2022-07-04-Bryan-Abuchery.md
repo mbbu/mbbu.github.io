@@ -1,14 +1,14 @@
 ---
-title: Bryan Abuchery
+title: My Internship journey
 photo: /assets/img/Bryan.jpg
-tags: My Internship journey
+tags: bioinformatics intern
 featured: false
 author: Bryan Abuchery
 author_photo: /assets/img/Bryan.jpg
 excerpt_separator: <!--main-->
 ---
 
-My journey as a Bioinformatics Intern Student and Job Perspectives.
+My journey as a Bioinformatics Intern and Career Perspectives.
 
 <!--main-->
 
