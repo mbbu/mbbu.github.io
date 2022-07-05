@@ -1,12 +1,14 @@
 ---
-title: Parcelli Jepchirchir
+title: My internship journey
 photo: /assets/img/Parcelli.jpg
-tags: My Internship journey
+tags: bioinformatics intern
 featured: false
 author: Parcelli Jepchirchir
 author_photo: /assets/img/Parcelli.jpg
 excerpt_separator: <!--main-->
 ---
+
+My journey as a Bioinformatics Intern Student and Career Perspectives.
 
 <!--main-->
 
