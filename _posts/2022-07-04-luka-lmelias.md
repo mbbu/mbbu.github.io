@@ -1,12 +1,14 @@
 ---
-title: Luka Lmelias
+title: My Internship journey
 photo: /assets/img/Luka.jpg
-tags: My Internship journey
+tags: bioinformatics intern
 featured: false
 author: Luka Lmelias
 author_photo: /assets/img/Luka.jpg
 excerpt_separator: <!--main-->
 ---
+
+My journey as a Bioinformatics Intern Student and Career Perspectives.
 
 <!--main-->
 
