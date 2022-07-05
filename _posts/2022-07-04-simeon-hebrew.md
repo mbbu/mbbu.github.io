@@ -1,12 +1,14 @@
 ---
-title: Simeon Hebrew
+title: My Internship journey
 photo: /assets/img/Hebrew.jpg
-tags: My Internship journey
+tags: bioinformatics intern
 featured: false
 author: Simeon Hebrew
 author_photo: /assets/img/Hebrew.jpg
 excerpt_separator: <!--main-->
 ---
+
+My journey as a Bioinformatics Intern Student and Career Perspectives.
 
 <!--main-->
 
