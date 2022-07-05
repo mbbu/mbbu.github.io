@@ -40,6 +40,7 @@ projects:
     link: "https://github.com/mbbu/Microsatelite_Mining"
     participants:
       - Kauthar Omar
+      - Wilson Mudaki
   - name: Variant Calling Pipeline
     description: Variant Calling is the process of identyfing genetic variants across a population using sequence data. Following advancement in sequencing technologies, next generation data can be used to identify different types of variants such as Single Nucleotide Polymorphism/Variants(SNPs) and INDELs(Insertions and Deletions) within a genome of interest and infer their phenotypic impact on the organism.
     link: "https://github.com/mbbu/variant-calling-pipeline"
