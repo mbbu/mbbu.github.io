@@ -1,7 +1,7 @@
 ---
-title: EANBiT fellows
+title: My Internship journey
 photo: /assets/img/eanbit-logo-300px.png
-tags: My Internship journey
+tags: bioinformatics intern
 featured: true
 author: Kauthar Omar, Fredrick Kebaso, Wilson Mudaki, Brenda Kamau
 author_photo: /assets/img/eanbit-logo-300px.png
