@@ -1,12 +1,14 @@
 ---
-title: Rose Wambui
+title:  My Internship journey
 photo: /assets/img/Rose.jpg
-tags: My Internship journey
+tags: bioinformatics intern
 featured: false
 author: Rose Wambui
 author_photo: /assets/img/Rose.jpg
 excerpt_separator: <!--main-->
 ---
+
+My journey as a Bioinformatics Intern Student and Career Perspectives.
 
 <!--main-->
 
