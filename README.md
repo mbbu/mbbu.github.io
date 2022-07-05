@@ -7,7 +7,7 @@ This page serves as a resource for the MBBU website.
 - Once you have completed the internship, do the following:
  1. Fork this repository.
  2. Update the `_posts` section of this file. 
-      - Copy the template 2022-07-04-template.md
+      - Copy any template e.g. 2022-07-04-Nelly.md
       - Modify the contents of the file with your information
       - Rename your file as 2022-07-04-'your name'.md
  3. Send a pull request to the master branch.
