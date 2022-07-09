@@ -36,16 +36,9 @@ participants:
 
 projects:
   - name: 
-    description: This project creates a workflow for 16SrRNA analysis for researchers.The 16S rRNA is a ribosomal RNA necessary for the synthesis of all prokaryotic proteins.
+    description: The Black Soldier Fly (Hermetia illucens; BSF) is a useful tool in valorising organic biomass and other biodegradable wastes. In this study, the BSF larvae were bred under different diets selected based on increasing lignocellulose content. These diets were: processed chicken feed (CF), chicken manure (CM), Brewer’s spent grain (BSG), and Water Hyacinth (WH). An additional diet Feed Mix (FM), consisting of the four diets in equal proportions was also incorporated. The different metatranscriptomes were sequenced using the PCR-cDNA approach on the ONT MinION platform. While the work, using ONT, aimed to identify and functionally characterise lignocellulosic biomass-degrading microbes, the mRNA enrichment protocol still retained some rRNAs, which were filtered out using SortMeRNA (Kopylova et al., 2012).This is an explorative study. We aim to explore what we can glean from the data.
     link: "https://github.com/mbbu/bsf_rrna"
     participants:
       - Oscar Mwaura
       - John Njogu
-  - name: RNA Seq Mini-Project
-    description: RNA-seq (RNA-sequencing) is a technique that can examine the quantity and sequences of RNA in a sample using next-generation sequencing (NGS). Over the past few years, RNA sequencing (RNA-seq) has become an indispensable tool for transcriptome-wide analysis of differential gene expression and differential splicing of mRNAs. It is rapidly replacing gene expression microarrays in many labs as it lets you quantify, discover, and profile RNAs.
-    link: "https://github.com/mbbu/RNA-Seq-mini-project"
-    participants:
-      - Lenaroto. L. Lmelias
-      - Margaret Chifwete
-      - Fredrick Kebaso Mariita
 ---
