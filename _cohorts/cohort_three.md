@@ -1,13 +1,13 @@
 ---
 name: Cohort Three
 photo: /assets/img/people.svg
-start_date: 2020-10-01
-end_date: 2021-01-01
+start_date: 2021-06-01
+end_date: 2021-09-01
 participants:
-  - name: Virginiah Kengara
+  - name: Johnny Njogu
     photo: /assets/img/cohorts/cohort_one/virginia_kengara.jpg
-    course: Bachelor of Science Micro Biology and Biotechnology
-    university: University of Nairobi
+    course: Bachelor of Science Applied Bioengineering
+    university: Jomo Kenyatta University of Agriculture and Technology
     description: From October 2020 to January 2021 I attended the Bioinformatics Incubation and Mentorship program hosted by the Molecular Biology, Bioinformatics and Statistics Unit (MBBU) at icipe campus. The program afforded me a transformative experience where I was able to gain a deeper understanding on various topics I had challenges in, access a wide selection of resources, and improve my laboratory and programming skills in an effort to build my abilities towards my career in the future. The program was very flexible allowing interns to have access to learning materials for self- study and have sessions with a trainer, this made certain that I could focus on my weak areas as well as, it provided enough technical support which gave me exposure to the systems and made learning smoother. The collaborative nature of the program allowed me to interact with other interns from different discourse communities within the Bioinformatics field and this allowed me to learn and understand topics from theory to wet lab concepts and in a different way. My goals entering the program were fulfilled by the end of the 3 month experience, I gained skills in different programming languages for instance Linux and Python. In conclusion, this was quite an exploratory experience that was very engaging.
 
   - name: Fredrick Kebaso Mariita
@@ -35,12 +35,12 @@ participants:
     description: This internship has been a life changing experience for me, the exposure of a research environment gave me the opportunity to understand some real world problems that are being solved in science. Interacting with successful scientists has motivated me to keep moving forward as a scientist, The mentorship program has been a great learning experience, the skills I have gained can attest to the expectations I had at the beginning, the tools and resources were up to date and easily accessible. The hands-free approach towards teaching has allowed me to work with High Performance computing (HPC), Programming, and Making use of Biological Databases and so on. I did a mini-project on RNA-seq data analysis in which I applied most of the above skills. Working on this project was an opportunity for me to obtain a hands-on experience in NGS data analysis. I would like to thank everyone who participated in creating this opportunity, it is a door to career growth for young scientists like me. I thank Dr. Caleb Kibet and Festus Nyasimi for their dedication in training and mentoring us.
 
 projects:
-  - name: 16s Mini-Project
+  - name: 
     description: This project creates a workflow for 16SrRNA analysis for researchers.The 16S rRNA is a ribosomal RNA necessary for the synthesis of all prokaryotic proteins.
-    link: "https://github.com/mbbu/16S-mini-project"
+    link: "https://github.com/mbbu/bsf_rrna"
     participants:
-      - Bryan Abuchery
-      - Virginiah Kengara
+      - Oscar Mwaura
+      - John Njogu
   - name: RNA Seq Mini-Project
     description: RNA-seq (RNA-sequencing) is a technique that can examine the quantity and sequences of RNA in a sample using next-generation sequencing (NGS). Over the past few years, RNA sequencing (RNA-seq) has become an indispensable tool for transcriptome-wide analysis of differential gene expression and differential splicing of mRNAs. It is rapidly replacing gene expression microarrays in many labs as it lets you quantify, discover, and profile RNAs.
     link: "https://github.com/mbbu/RNA-Seq-mini-project"
