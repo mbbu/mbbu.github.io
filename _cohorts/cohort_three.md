@@ -11,12 +11,42 @@ participants:
     description: The EANBIT Bioinformatics program is a must do for anyone who is serious about research. I came out from school green and I was not sure of how to approach the job market. I was not sure of what to expect or what my interests were. But this program  offered mentors like Dr. Caleb and Festus Nyasimi who guided me to discover my interest. I have finally found  something that I am passionate about. The program enabled me to be able to draw a roadmap to my future.
 I am not there yet but I am not where I was before joining the program and for this reason I am sincerely grateful to God for being chosen to go through it. Thank you EANBIT, ICIPE especially MBBU staff and my fellow interns for making my stay there memorable and for the skills that I have gained.
   
-  
+  - name: Fredrick Kebaso Mariita
+    photo: /assets/img/cohorts/cohort_one/fredrick_kebaso_mariita.jpg
+    course: Bachelor of Science Molecular Biology
+    university: Kenyatta University
+    description: The training, mentorship and networking I had during the Bioinformatics Incubation and Mentorship program has improved my passion and skills for to move forward in searching for scholarship opportunities towards a Masters in Bioinformatics. This internship opportunity has played a key role in shaping my career development plan. It was a noble opportunity for mentorship and networking with people of similar interest in the bioinformatics field. I got to understand what is required of me to become a skilled Bioinformatician. The skills that I need to work on as per now and the various networks that are important for me to grow. The interaction with colleagues triggered and renewed my energy to soldier in pursuit of my career. The various activities organized such as journal club and weekly updates kept me on the move and changed my perception in life as well taught me the importance of self-organization in your day to day activities. I take his opportunity to thank our PI, Dr. Dan Masiga, Karen Wambui, Dr. Caleb Kibet, Mr. Festus Nyasimi and the MBBU staff who played key role in ensuring a smooth stay during the 4 months period, the combined effort has enabled me to achieve my goals as outlined in the roadmap at the beginning of the internship. I was able to acquire new skills that I wouldn’t have gained on my own without this opportunity that supported me to set right my priorities in the future.
+
+  - name: Bryan Abuchery
+    photo: /assets/img/cohorts/cohort_one/bryan_abuchery.png
+    course: Bachelor of Science Molecular Biology
+    university: Moi University
+    description: The Bioinformatics Internship opportunity offered by the ICIPE’s MBBU unit was geared to help facilitate recent undergraduate students with Bioinformatics knowledge and skills. This was because there are a few undergraduate students aware of careers in Bioinformatics and even fewer with experience in the same field. Throughout the entire introduction to Bioinformatics, interns were able to work collaboratively with the MBBU staff. This bolstered a unique relationship between the interns and the supervisors exposing the interns to other scientists in different Bioinformatics careers. There were also periods of interaction between progress presentations, journal clubs and in informal settings which helped the interns get more comfortable. Psychologically, this helped improve communication skills among one another and also debunk myths that Bioinformatics was hard or something to fear. At the end of the internship, Bioinformatics had become one of the most easiest and fun branch of science to learn.
+
+  - name: Margaret Chifwete
+    photo: /assets/img/cohorts/cohort_one/margaret_chifwete.jpg
+    course: Bachelor of Science Biotechnology
+    university: Masinde Muliro University of Science and Technology
+    description: My experience during the internship was educative, informative, life changing and great exposure into the computational world. Most of the skills and lessons learned were useful and very helpful for an upcoming scientist. The mode of learning was mainly hands-on and self-learning which I think is the best in raising the students’ curiosity, detail-oriented, make mistakes, work on them on the different ways or further consult. It was also a challenging experience, getting to know and interact with people that are way ahead in the computational field. This triggers your urge to proceed further, learn more and grow. My sincere gratitude to the organizers for choosing me to be part of the team. It was great experience and great exposure to young scientists. I now have a clearer picture of the career path I want to take, thanks to the exposure. It is also a great opportunity that I can recommend to young aspiring computational biologists. Special thanks to Dr. Caleb Kibet and Festus Nyasimi for their generous contribution and dedication towards the success of this course. Not to forget the master’s students and the entire MBBU team for their unending support.
+
+  - name: Lenaroto. L. Lmelias
+    photo: /assets/img/cohorts/cohort_one/lenaroto_l_lmelias.jpg
+    course: Bachelor of Science Biotechnology
+    university: Kenyatta University
+    description: This internship has been a life changing experience for me, the exposure of a research environment gave me the opportunity to understand some real world problems that are being solved in science. Interacting with successful scientists has motivated me to keep moving forward as a scientist, The mentorship program has been a great learning experience, the skills I have gained can attest to the expectations I had at the beginning, the tools and resources were up to date and easily accessible. The hands-free approach towards teaching has allowed me to work with High Performance computing (HPC), Programming, and Making use of Biological Databases and so on. I did a mini-project on RNA-seq data analysis in which I applied most of the above skills. Working on this project was an opportunity for me to obtain a hands-on experience in NGS data analysis. I would like to thank everyone who participated in creating this opportunity, it is a door to career growth for young scientists like me. I thank Dr. Caleb Kibet and Festus Nyasimi for their dedication in training and mentoring us.
+
 projects:
-  - name: Microsatellite mining in the transcriptome data
-    description: The Black Soldier Fly (Hermetia illucens; BSF) is a useful tool in valorising organic biomass and other biodegradable wastes. In this study, the BSF larvae were bred under different diets selected based on increasing lignocellulose content. These diets were: processed chicken feed (CF), chicken manure (CM), Brewer’s spent grain (BSG), and Water Hyacinth (WH). An additional diet Feed Mix (FM), consisting of the four diets in equal proportions was also incorporated. The different metatranscriptomes were sequenced using the PCR-cDNA approach on the ONT MinION platform. While the work, using ONT, aimed to identify and functionally characterise lignocellulosic biomass-degrading microbes, the mRNA enrichment protocol still retained some rRNAs, which were filtered out using SortMeRNA (Kopylova et al., 2012).This is an explorative study. We aim to explore what we can glean from the data.
-    link: "https://github.com/mbbu/bsf_rrna"
+  - name: 16s Mini-Project
+    description: This project creates a workflow for 16SrRNA analysis for researchers.The 16S rRNA is a ribosomal RNA necessary for the synthesis of all prokaryotic proteins.
+    link: "https://github.com/mbbu/16S-mini-project"
     participants:
-      - John Njogu
-      - Oscar Mwaura
+      - Bryan Abuchery
+      - Virginiah Kengara
+  - name: RNA Seq Mini-Project
+    description: RNA-seq (RNA-sequencing) is a technique that can examine the quantity and sequences of RNA in a sample using next-generation sequencing (NGS). Over the past few years, RNA sequencing (RNA-seq) has become an indispensable tool for transcriptome-wide analysis of differential gene expression and differential splicing of mRNAs. It is rapidly replacing gene expression microarrays in many labs as it lets you quantify, discover, and profile RNAs.
+    link: "https://github.com/mbbu/RNA-Seq-mini-project"
+    participants:
+      - Lenaroto. L. Lmelias
+      - Margaret Chifwete
+      - Fredrick Kebaso Mariita
 ---
