@@ -35,10 +35,17 @@ participants:
     description: This internship has been a life changing experience for me, the exposure of a research environment gave me the opportunity to understand some real world problems that are being solved in science. Interacting with successful scientists has motivated me to keep moving forward as a scientist, The mentorship program has been a great learning experience, the skills I have gained can attest to the expectations I had at the beginning, the tools and resources were up to date and easily accessible. The hands-free approach towards teaching has allowed me to work with High Performance computing (HPC), Programming, and Making use of Biological Databases and so on. I did a mini-project on RNA-seq data analysis in which I applied most of the above skills. Working on this project was an opportunity for me to obtain a hands-on experience in NGS data analysis. I would like to thank everyone who participated in creating this opportunity, it is a door to career growth for young scientists like me. I thank Dr. Caleb Kibet and Festus Nyasimi for their dedication in training and mentoring us.
 
 projects:
-  - name: 
-    description: The Black Soldier Fly (Hermetia illucens; BSF) is a useful tool in valorising organic biomass and other biodegradable wastes. In this study, the BSF larvae were bred under different diets selected based on increasing lignocellulose content. These diets were: processed chicken feed (CF), chicken manure (CM), Brewer’s spent grain (BSG), and Water Hyacinth (WH). An additional diet Feed Mix (FM), consisting of the four diets in equal proportions was also incorporated. The different metatranscriptomes were sequenced using the PCR-cDNA approach on the ONT MinION platform. While the work, using ONT, aimed to identify and functionally characterise lignocellulosic biomass-degrading microbes, the mRNA enrichment protocol still retained some rRNAs, which were filtered out using SortMeRNA (Kopylova et al., 2012).This is an explorative study. We aim to explore what we can glean from the data.
-    link: "https://github.com/mbbu/bsf_rrna"
+  - name: 16s Mini-Project
+    description: This project creates a workflow for 16SrRNA analysis for researchers.The 16S rRNA is a ribosomal RNA necessary for the synthesis of all prokaryotic proteins.
+    link: "https://github.com/mbbu/16S-mini-project"
     participants:
-      - Oscar Mwaura
-      - John Njogu
+      - Bryan Abuchery
+      - Virginiah Kengara
+  - name: RNA Seq Mini-Project
+    description: RNA-seq (RNA-sequencing) is a technique that can examine the quantity and sequences of RNA in a sample using next-generation sequencing (NGS). Over the past few years, RNA sequencing (RNA-seq) has become an indispensable tool for transcriptome-wide analysis of differential gene expression and differential splicing of mRNAs. It is rapidly replacing gene expression microarrays in many labs as it lets you quantify, discover, and profile RNAs.
+    link: "https://github.com/mbbu/RNA-Seq-mini-project"
+    participants:
+      - Lenaroto. L. Lmelias
+      - Margaret Chifwete
+      - Fredrick Kebaso Mariita
 ---
