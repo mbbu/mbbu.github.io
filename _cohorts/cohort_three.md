@@ -1,14 +1,15 @@
 ---
-name: Cohort One
+name: Cohort Three
 photo: /assets/img/people.svg
-start_date: 2020-10-01
-end_date: 2021-01-01
+start_date: 2020-06-01
+end_date: 2021-09-01
 participants:
-  - name: Virginiah Kengara
+  - name: Johnny Njogu
     photo: /assets/img/cohorts/cohort_one/virginia_kengara.jpg
-    course: Bachelor of Science Micro Biology and Biotechnology
-    university: University of Nairobi
-    description: From October 2020 to January 2021 I attended the Bioinformatics Incubation and Mentorship program hosted by the Molecular Biology, Bioinformatics and Statistics Unit (MBBU) at icipe campus. The program afforded me a transformative experience where I was able to gain a deeper understanding on various topics I had challenges in, access a wide selection of resources, and improve my laboratory and programming skills in an effort to build my abilities towards my career in the future. The program was very flexible allowing interns to have access to learning materials for self- study and have sessions with a trainer, this made certain that I could focus on my weak areas as well as, it provided enough technical support which gave me exposure to the systems and made learning smoother. The collaborative nature of the program allowed me to interact with other interns from different discourse communities within the Bioinformatics field and this allowed me to learn and understand topics from theory to wet lab concepts and in a different way. My goals entering the program were fulfilled by the end of the 3 month experience, I gained skills in different programming languages for instance Linux and Python. In conclusion, this was quite an exploratory experience that was very engaging.
+    course: Bachelor of Science Applied Bioengineering
+    university: Jomo Kenyatta University of Science and Technology
+    description: The EANBIT Bioinformatics program is a must do for anyone who is serious about research. I came out from school green and I was not sure of how to approach the job market. I was not sure of what to expect or what my interests were. But this program  offered mentors like Dr. Caleb and Festus Nyasimi who guided me to discover my interest. I have finally found  something that I am passionate about. The program enabled me to be able to draw a roadmap to my future. I am not there yet but I am not where I was before joining the program and for this reason I am sincerely grateful to God for being chosen to go through it. Thank you EANBIT, ICIPE especially MBBU staff and my fellow interns for making my stay there memorable and for the skills that I have gained.
+
 
   - name: Fredrick Kebaso Mariita
     photo: /assets/img/cohorts/cohort_one/fredrick_kebaso_mariita.jpg
