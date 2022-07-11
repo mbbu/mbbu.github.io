@@ -2,7 +2,7 @@
 name: Cohort Five
 photo: /assets/img/people.svg
 start_date: 2022-02-01
-end_date: 2021-05-01
+end_date: 2022-05-01
 participants:
   - name: Maxwell Booker
     photo: /assets/img/people.svg
