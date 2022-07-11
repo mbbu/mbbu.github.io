@@ -16,18 +16,4 @@ participants:
     university: Jomo Kenyatta University of Science and Technology
     description: The Bioinformatics Incubation and Mentorship program at icipe is a major highlight in my career so far. Through it's very able and talented team of  facilitators led by Dr Caleb Kibet, the programme helped me improve in key areas that are essential in the field of Bioinformatics and Science in general. The practical application of acquired skills to solve real word problems went a long way to lay a strong foundation upon which to build a career in Bioinformatics. The programme also gave a boost to my confidence in my skills bearing in mind that we were learning from the best Scholars and Scientists. Overall, at the end of the internship, I was better at professional and scientific communication, Machine Learning, data analysis and most importantly had a broader network.
 
-projects:
-  - name: Reviewing 16s Analysis workflows
-    description: This mini-project aims to review existing microbiome workflows, identify great ones and extend the workflows where there are gaps, especially to make them useful in insect and pathogen data.
-    link: "https://github.com/mbbu/Reviewing-16s-Analysis-Workflows"
-    participants:
-      - Collins Kigen
-      - Nelly Wambui
-
-  - name: Insect identification using deep learning
-    description: The international centre of insect physiology and ecology is a leading institution in insect research in Africa and the world. There are several reasons why icipe focuses on insect research: they are a source of food and feed, they are the most diverse and abundant forms of life on earth, and they are crop pests and disease vectors. There is a need to harness the potential of insects for food and feed, pest, disease vectors etc. and develop appropriate strategies e.g. control, industrialization and research. All these starts with identifying the insects, which is a role taken up by a well-trained entomologist. However, since entomologists are few and not always available, and insects varieties are many, raises the need for other automated techniques. Machine learning approaches (especially deep learning) have become a go-to tool for automated image identification and classification. These digital solutions can be deployed on mobile phones and used by farmers and communities at large for image identification and classifiation.
-    link: "https://github.com/mbbu/Insect-identification-using-machine-learning"
-    participants:
-      - JB Mugi
-      - Caroline Kogei
 ---
