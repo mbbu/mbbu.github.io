@@ -17,22 +17,22 @@ participants:
     
 projects:
   - name: Black Soldier fly ribosomal RNA analysis
-    description: This project aims to fetch arbovirus data from East Africa and analyze trends by mapping the sequence data and research interest.
-    link: "https://github.com/mbbu/Mining-Arboviruses-sequences-from-East-Africa"
+    description: The Black Soldier Fly (Hermetia illucens; BSF) is a useful tool in valorising organic biomass and other biodegradable wastes. In this study, the BSF larvae were bred under different diets selected based on increasing lignocellulose content. These diets were: processed chicken feed (CF), chicken manure (CM), Brewer’s spent grain (BSG), and Water Hyacinth (WH). An additional diet Feed Mix (FM), consisting of the four diets in equal proportions was also incorporated. The different metatranscriptomes were sequenced using the PCR-cDNA approach on the ONT MinION platform. While the work, using ONT, aimed to identify and functionally characterise lignocellulosic biomass-degrading microbes, the mRNA enrichment protocol still retained some rRNAs, which were filtered out using SortMeRNA (Kopylova et al., 2012).This is an explorative study. We aim to explore what we can glean from the data.
+    link: "https://github.com/mbbu/bsf_rrna"
     participants:
       - Johnny Njogu
       - Oscar Mwaura
 
-  - name: 16s Analysis
-    description: Evaluate the combined use of whole-exome sequencing (WES) and nanopore sequencing to comprehensively screen for BRCA1/2 germline mutations.
-    link: "https://github.com/mbbu/Breast-Cancer-ONT-and-WES-data-analysis"
+  - name: Bee Metagenomics
+    description: 16s Analysis
+    link: "https://github.com/mbbu/MiniProject-BeeMetagenomics"
     participants:
       - Bole Kadiro
       - Brenda Kamau
 
-  - name: 16s Analysis
-    description: Evaluate the combined use of whole-exome sequencing (WES) and nanopore sequencing to comprehensively screen for BRCA1/2 germline mutations.
-    link: "https://github.com/mbbu/Breast-Cancer-ONT-and-WES-data-analysis"
+  - name: Fungi identification
+    description: This study aims at identifying fungi species present in the beehives across Madagascar, Zanzibar, Tanzania, Ethiopia and Kenya. You can find a better description of the project plan here. This will be using ITS2-4 data collected from these regions using metabarcoding.
+    link: "https://github.com/mbbu/Fungi_Identification"
     participants:
       - Parcelli Jepchirchir
       - Dorcus Namikelwa
