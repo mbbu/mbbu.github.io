@@ -24,9 +24,34 @@
     - name: Another One
       github: ""
 
-
 - id: cohort_3
   name: Cohort 3
+  participants:
+    - name: John Doe
+      github: ""
+    - name: Jane Doe
+      github: ""
+  projects:
+    - name: Hello World
+      github: ""
+    - name: Another One
+      github: ""
+      
+- id: cohort_4
+  name: Cohort 4
+  participants:
+    - name: John Doe
+      github: ""
+    - name: Jane Doe
+      github: ""
+  projects:
+    - name: Hello World
+      github: ""
+    - name: Another One
+      github: ""
+      
+- id: cohort_5
+  name: Cohort 5
   participants:
     - name: John Doe
       github: ""
