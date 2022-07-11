@@ -25,7 +25,7 @@ projects:
       - Rodney Omukuti
       - Sharon Watiri
 
- - name: Breast Cancer ONT and WES data analysis
+  - name: Breast Cancer ONT and WES data analysis
     description: Evaluate the combined use of whole-exome sequencing (WES) and nanopore sequencing to comprehensively screen for BRCA1/2 germline mutations.
     link: "https://github.com/mbbu/Breast-Cancer-ONT-and-WES-data-analysis"
     participants:
