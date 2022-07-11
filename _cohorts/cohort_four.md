@@ -25,7 +25,7 @@ projects:
       - Nelly Wambui
 
   - name: Insect identification using deep learning
-    description: 
+    description: The international centre of insect physiology and ecology is a leading institution in insect research in Africa and the world. There are several reasons why icipe focuses on insect research. These reasons include they are a source of food and feed, they are the most diverse and abundant forms of life on earth, and they are crop pests and disease vectors. There is a need to harness the potential of insects for food and feed, pest, disease vectors etc. and develop appropriate strategies e.g. control, industrialization and research. All these starts with identifying the insects, which is a role taken up by a well-trained entomologist. However, since entomologists are few and not always available, and insects varieties are many, raises the need for other automated techniques. Machine learning approaches, especially deep learning have become a go-to tool for automated image identification and classification. These digital solutions can be deployed on mobile phones and used by farmers and communities at large for image identification and classifiation.
     link: "https://github.com/mbbu/Insect-identification-using-machine-learning"
     participants:
       - JB Mugi
