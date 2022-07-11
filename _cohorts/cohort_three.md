@@ -1,10 +1,10 @@
 ---
-name: Cohort One
+name: Cohort Three
 photo: /assets/img/people.svg
-start_date: 2020-10-01
-end_date: 2021-01-01
+start_date: 2020-06-01
+end_date: 2021-09-01
 participants:
-  - name: Virginiah Kengara
+  - name: Oscar Mwaura
     photo: /assets/img/cohorts/cohort_one/virginia_kengara.jpg
     course: Bachelor of Science Micro Biology and Biotechnology
     university: University of Nairobi
