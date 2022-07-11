@@ -1,34 +1,39 @@
 ---
-name: Cohort Five
+name: Cohort Three
 photo: /assets/img/people.svg
 start_date: 2020-06-01
 end_date: 2021-09-01
 participants:
-  - name: Maxwell Booker
+  - name: Johnny Njogu
     photo: /assets/img/people.svg
     course: Bachelor of Science Applied Bioengineering
-    university: Jomo Kenyatta University of Science and Technology
-    description: The Bioinformatics Incubation program offered a well-detailed introduction to Bioinformatics. Interacting with successful scientists has motivated me to keep moving forward as a scientist. This program has been a great learning experience, the skills I have gained can attest to the expectations I had at the beginning, and the tools and resources are all up to date and easily accessible. The hands-free approach to teaching has allowed me to work within an HPC, understand some Programming languages, and Making use of Biological Databases, and so on. I have also learned how to communicate effectively, work in a team collaboratively, exchange ideas, and gain new insights from my supervisors and colleagues. I did a mini-project on the analysis of data Sequenced using Next Generation Sequencing Techniques in which I applied most of the above skills. Working on this project was an opportunity for me to obtain a hands-on experience in NGS data analysis. I would like to thank everyone who participated in creating this opportunity, it is a door to career growth for young scientists in the future and a wonderful program with no faults. I thank Dr. Caleb Kibet, Ruth Nanjala, Pauline Karega, and other trainers for their dedication to training and mentoring us.
-    
-  - name: Rodney Omukuti
+    university: The EANBIT Bioinformatics program is a must do for anyone who is serious about research. I came out from school green and I was not sure of how to approach the job market. I was not sure of what to expect or what my interests were. But this program  offered mentors like Dr. Caleb and Festus Nyasimi who guided me to discover my interest. I have finally found  something that I am passionate about. The program enabled me to be able to draw a roadmap to my future. I am not there yet but I am not where I was before joining the program and for this reason I am sincerely grateful to God for being chosen to go through it. Thank you EANBIT, ICIPE especially MBBU staff and my fellow interns for making my stay there memorable and for the skills that I have gained.
+
+  - name: Oscar Mwaura
     photo: /assets/img/people.svg
     course: Bachelor of Science Botany
     university: Pwani University
-    description: With a background in biology, I was exposed to the broad disciplines of plant and animal sciences which endowed me with theoretical understanding and practical skills in routine microbiology, genetics, and molecular biology. I consequently developed a passion for these fields and invested time in online courses on bioinformatics e.g., Introduction to Linux for Biologists (Future Learn), and Introduction to R among others, which made me apply for the Bioinformatics Internship and Incubation Program at ICIPE. The program is well structured offering a good mastery of concepts, personal and professional growth, hands-on experience through mini-projects, and scientific communication. Following the engagements during the internship, I have resolved to pursue a career utilizing genomic approaches to understand and conserve the environment and biodiversity. Many thanks to the organizers, trainers, and the MBBU at large.
+    description: I took part in the East African Network for Bioinformatics Training (EANBIT) and the Molecular Biology, Bioinformatics and Statistics Unit (MBBU)-organized Bioinformatics Incubation and Mentorship program from June to September 2021 at the icipe. The program provided me with a once-in-a-lifetime chance to learn more about a variety of topics I found challenging in genomics and bioinformatics, gained access to a wealth of resources, forged connections, and honed my programming and analysis skills in an effort to hone my abilities in anticipation of a future career in plant genomics. Because the program was very adaptable and permitted interns to access learning resources for independent study and participate in training sessions with  surpivisor and trainer Dr. Caleb Kibet, Festus Nyasimi respectively , I was able to focus on my weak areas.I was able to connect with other interns as well scientists from different discourse communities within the bioinformatics industry thanks to the program's collaborative nature, which helped me study and comprehend theoretical concepts in a fresh approach. By the end of the four-month experience, I had accomplished my objectives and improved my proficiency in several programming languages and bioinformatics genomic analysis. To sum it up, lemmi say, it was a really thorough and entertaining training.
     
 projects:
-  - name: Mining Arboviruses sequences from East Africa
+  - name: Black Soldier fly ribosomal RNA analysis
     description: This project aims to fetch arbovirus data from East Africa and analyze trends by mapping the sequence data and research interest.
     link: "https://github.com/mbbu/Mining-Arboviruses-sequences-from-East-Africa"
     participants:
-      - Dennis Kinyugo
-      - Rodney Omukuti
-      - Sharon Watiri
+      - Johnny Njogu
+      - Oscar Mwaura
 
-  - name: Breast Cancer ONT and WES data analysis
+  - name: 16s Analysis
     description: Evaluate the combined use of whole-exome sequencing (WES) and nanopore sequencing to comprehensively screen for BRCA1/2 germline mutations.
     link: "https://github.com/mbbu/Breast-Cancer-ONT-and-WES-data-analysis"
     participants:
-      - Maxwell Bookey
-      - Audrey Oronda
+      - Bole Kadiro
+      - Brenda Kamau
+
+  - name: 16s Analysis
+    description: Evaluate the combined use of whole-exome sequencing (WES) and nanopore sequencing to comprehensively screen for BRCA1/2 germline mutations.
+    link: "https://github.com/mbbu/Breast-Cancer-ONT-and-WES-data-analysis"
+    participants:
+      - Parcelli Jepchirchir
+      - Dorcus Namikelwa
 ---
