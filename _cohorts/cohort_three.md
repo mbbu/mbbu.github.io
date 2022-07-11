@@ -1,16 +1,16 @@
 ---
-name: Cohort Three
+name: Cohort One
 photo: /assets/img/people.svg
-start_date: 2020-06-01
-end_date: 2021-09-01
+start_date: 2020-10-01
+end_date: 2021-01-01
 participants:
-  - name: Oscar Mwaura Muriithi
-    photo: /assets/img/cohorts/cohort_one/bryan_abuchery.png
-    course: Bachelor of Science in Botany
-    university: Pwani University
-    description: I took part in the East African Network for Bioinformatics Training (EANBIT) and the Molecular Biology, Bioinformatics and Statistics Unit (MBBU)-organized Bioinformatics Incubation and Mentorship program from June to September 2021 at the icipe. The program provided me with a once-in-a-lifetime chance to learn more about a variety of topics I found challenging in genomics and bioinformatics, gained access to a wealth of resources, forged connections, and honed my programming and analysis skills in an effort to hone my abilities in anticipation of a future career in plant genomics. Because the program was very adaptable and permitted interns to access learning resources for independent study and participate in training sessions with  surpivisor and trainer Dr, caleb kibet Festus nyasimi respectively , I was able to focus on my weak areas.I was able to connect with other interns as well scientists from different discourse communities within the bioinformatics industry thanks to the program's collaborative nature, which helped me study and comprehend theoretical concepts in a fresh approach. By the end of the four-month experience, I had accomplished my objectives and improved my proficiency in several programming languages and bioinformatics genomic analysis. To sum it up, lemmi say, it was a really thorough and entertaining training.
+  - name: Virginiah Kengara
+    photo: /assets/img/cohorts/cohort_one/virginia_kengara.jpg
+    course: Bachelor of Science Micro Biology and Biotechnology
+    university: University of Nairobi
+    description: From October 2020 to January 2021 I attended the Bioinformatics Incubation and Mentorship program hosted by the Molecular Biology, Bioinformatics and Statistics Unit (MBBU) at icipe campus. The program afforded me a transformative experience where I was able to gain a deeper understanding on various topics I had challenges in, access a wide selection of resources, and improve my laboratory and programming skills in an effort to build my abilities towards my career in the future. The program was very flexible allowing interns to have access to learning materials for self- study and have sessions with a trainer, this made certain that I could focus on my weak areas as well as, it provided enough technical support which gave me exposure to the systems and made learning smoother. The collaborative nature of the program allowed me to interact with other interns from different discourse communities within the Bioinformatics field and this allowed me to learn and understand topics from theory to wet lab concepts and in a different way. My goals entering the program were fulfilled by the end of the 3 month experience, I gained skills in different programming languages for instance Linux and Python. In conclusion, this was quite an exploratory experience that was very engaging.
 
-   - name: Fredrick Kebaso Mariita
+  - name: Fredrick Kebaso Mariita
     photo: /assets/img/cohorts/cohort_one/fredrick_kebaso_mariita.jpg
     course: Bachelor of Science Molecular Biology
     university: Kenyatta University
