@@ -17,10 +17,18 @@ participants:
     description: With a background in biology, I was exposed to the broad disciplines of plant and animal sciences which endowed me with theoretical understanding and practical skills in routine microbiology, genetics, and molecular biology. I consequently developed a passion for these fields and invested time in online courses on bioinformatics e.g., Introduction to Linux for Biologists (Future Learn), and Introduction to R among others, which made me apply for the Bioinformatics Internship and Incubation Program at ICIPE. The program is well structured offering a good mastery of concepts, personal and professional growth, hands-on experience through mini-projects, and scientific communication. Following the engagements during the internship, I have resolved to pursue a career utilizing genomic approaches to understand and conserve the environment and biodiversity. Many thanks to the organizers, trainers, and the MBBU at large.
     
 projects:
-  - name: Black soldier fly ribosomal RNA analysis
-    description: The Black Soldier Fly (Hermetia illucens, BSF) is a useful tool in valorising organic biomass and other biodegradable wastes. In this study, the BSF larvae were bred under different diets selected based on increasing lignocellulose content. These diets were processed chicken feed (CF), chicken manure (CM), Brewer’s spent grain (BSG), and Water Hyacinth (WH). An additional diet Feed Mix (FM), consisting of the four diets in equal proportions was also incorporated. The different metatranscriptomes were sequenced using the PCR-cDNA approach on the ONT MinION platform. While the work, using ONT, aimed to identify and functionally characterise lignocellulosic biomass-degrading microbes, the mRNA enrichment protocol still retained some rRNAs, which were filtered out using SortMeRNA (Kopylova et al., 2012).This is an explorative study. We aim to explore what we can glean from the data.
-    link: "https://github.com/mbbu/bsf_rrna"
+  - name: Mining Arboviruses sequences from East Africa
+    description: This project aims to fetch arbovirus data from East Africa and analyze trends by mapping the sequence data and research interest.
+    link: "https://github.com/mbbu/Mining-Arboviruses-sequences-from-East-Africa"
     participants:
-      - John Njogu
-      - Oscar Mwaura
+      - Dennis Kinyugo
+      - Rodney Omukuti
+      - Sharon Watiri
+
+ - name: Breast Cancer ONT and WES data analysis
+    description: Evaluate the combined use of whole-exome sequencing (WES) and nanopore sequencing to comprehensively screen for BRCA1/2 germline mutations.
+    link: "https://github.com/mbbu/Breast-Cancer-ONT-and-WES-data-analysis"
+    participants:
+      - Maxwell Bookey
+      - Audrey Oronda
 ---
