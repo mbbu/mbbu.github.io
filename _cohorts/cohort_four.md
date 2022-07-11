@@ -31,4 +31,11 @@ projects:
       - JB Mugi
       - Caroline Kogei
 
+- name: Reviewing Variant Calling Analysis workflows
+    description: This mini-project aims to review existing variant calling pipelines, identify great ones and extend the workflows where there are gaps, especially to make them useful in insect and pathogen data.
+    link: "https://github.com/mbbu/Assessing-Variant-Calling-Pipelines"
+    participants:
+      - Allan Okeyo
+      - Joyce Wangari
+
 ---
