@@ -1,7 +1,7 @@
 ---
 name: Cohort Three
 photo: /assets/img/people.svg
-start_date: 2020-06-01
+start_date: 2021-06-01
 end_date: 2021-09-01
 participants:
   - name: Johnny Njogu
