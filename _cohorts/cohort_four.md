@@ -16,11 +16,18 @@ participants:
     university: Jomo Kenyatta University of Science and Technology
     description: The Bioinformatics Incubation and Mentorship program at icipe is a major highlight in my career so far. Through it's very able and talented team of  facilitators led by Dr Caleb Kibet, the programme helped me improve in key areas that are essential in the field of Bioinformatics and Science in general. The practical application of acquired skills to solve real word problems went a long way to lay a strong foundation upon which to build a career in Bioinformatics. The programme also gave a boost to my confidence in my skills bearing in mind that we were learning from the best Scholars and Scientists. Overall, at the end of the internship, I was better at professional and scientific communication, Machine Learning, data analysis and most importantly had a broader network.
     
-  - name: Carol.jpg
-    photo: /assets/img/cohorts/cohort_four/
+  - name: Caroline Kogei
+    photo: /assets/img/cohorts/cohort_four/Carol.jpg
     course: Bachelor of Science Applied Bioengineering
     university: Jomo Kenyatta University of Science and Technology
     description: The Bioinformatics incubation program provides the much needed platform to kickstart a career in genomics research. Through the well curated programs, I discovered the various opportunities in Bioinformatics. I up-skilled in both hard and soft skills including programming, technical writing, mentorship and presentation skills. I’d like to thank Dr Caleb Kibet, Ruth Nanjala and the entire team for their mentorship in ensuring we become the best version of ourselves.
+    
+  - name: Joyce Wangari
+    photo: /assets/img/cohorts/cohort_four/Joyce-photo.jpg
+    course: Bachelor of Science Genomic Sciences
+    university: Jomo Kenyatta University of Science and Technology
+    description: It is such an honor to have been part of the Bioinformatics Incubation and Mentorship  Program at ICIPE. This experience has laid a great foundation for my career in Bioinformatics. The program is well-structured and facilitated by a dedicated team of experts. It involves a rigorous training for both technical and soft skills after which one reproduces a scientific paper and works on the mini-project collaboratively, a unique approach to enhance skill retention.
+In Addition to that, the journal club presentations and weekly code review equips one with writing, communication and presentation skills. The training equipped me with a unique sense of tenacity and diligence to meticulously approach scientific problems through a computational lens and with the necessary soft skills. I am now more motivated and confident to pursue Bioinformatics further. I accord profound gratitude to Dr. Caleb Kibet, Ruth Nanjala, Eric Kariuki, Pauline Karega and the entire Bioinformatics team for their dedication to teach, guide and mentor us through the internship period and even afterwards through the alumni mentorship program.
     
 projects:
   - name: Reviewing 16s Analysis workflows
