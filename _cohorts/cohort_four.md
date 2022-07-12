@@ -18,8 +18,8 @@ participants:
     
   - name: Caroline Kogei
     photo: /assets/img/cohorts/cohort_four/Carol.jpg
-    course: Bachelor of Science Applied Bioengineering
-    university: Jomo Kenyatta University of Science and Technology
+    course: BSc. Applied Statistics with Computing
+    university: Moi University
     description: The Bioinformatics incubation program provides the much needed platform to kickstart a career in genomics research. Through the well curated programs, I discovered the various opportunities in Bioinformatics. I up-skilled in both hard and soft skills including programming, technical writing, mentorship and presentation skills. I’d like to thank Dr Caleb Kibet, Ruth Nanjala and the entire team for their mentorship in ensuring we become the best version of ourselves.
     
   - name: Joyce Wangari
