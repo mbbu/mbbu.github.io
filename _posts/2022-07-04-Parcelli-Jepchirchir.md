@@ -4,7 +4,7 @@ photo: /assets/img/Parcelli.jpg
 tags: bioinformatics intern
 featured: false
 author: Parcelli Jepchirchir
-author_photo: /assets/img/Parcelli.jpg
+author_photo: /assets/img/Parcelli.jpeg
 excerpt_separator: <!--main-->
 ---
 
