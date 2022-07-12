@@ -4,7 +4,7 @@ photo: /assets/img/Nelly.jpg
 tags: icipe intern bioinformatics
 featured: false
 author: Nelly Wambui
-author_photo: /assets/img/Nelly.jpg
+author_photo: /assets/img/Nelly.jpeg
 excerpt_separator: <!--main-->
 ---
 
