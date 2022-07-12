@@ -16,6 +16,12 @@ participants:
     university: Jomo Kenyatta University of Science and Technology
     description: The Bioinformatics Incubation and Mentorship program at icipe is a major highlight in my career so far. Through it's very able and talented team of  facilitators led by Dr Caleb Kibet, the programme helped me improve in key areas that are essential in the field of Bioinformatics and Science in general. The practical application of acquired skills to solve real word problems went a long way to lay a strong foundation upon which to build a career in Bioinformatics. The programme also gave a boost to my confidence in my skills bearing in mind that we were learning from the best Scholars and Scientists. Overall, at the end of the internship, I was better at professional and scientific communication, Machine Learning, data analysis and most importantly had a broader network.
     
+  - name: Caroline Kogei
+    photo: /assets/img/people.svg
+    course: Bachelor of Science Applied Bioengineering
+    university: Jomo Kenyatta University of Science and Technology
+    description: The Bioinformatics incubation program provides the much needed platform to kickstart a career in genomics research. Through the well curated programs, I discovered the various opportunities in Bioinformatics. I up-skilled in both hard and soft skills including programming, technical writing, mentorship and presentation skills. I’d like to thank Dr Caleb Kibet, Ruth Nanjala and the entire team for their mentorship in ensuring we become the best version of ourselves.
+    
 projects:
   - name: Reviewing 16s Analysis workflows
     description: This mini-project aims to review existing microbiome workflows, identify great ones and extend the workflows where there are gaps, especially to make them useful in insect and pathogen data.
