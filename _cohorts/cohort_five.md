@@ -12,7 +12,7 @@ participants:
     
   - name: Rodney Omukuti
     photo: /assets/img/cohorts/cohort_three/Rodney.jpeg
-    course: Bachelor of Science Botany
+    course: Bachelor of Science Biology (Zoology)
     university: Pwani University
     description: With a background in biology, I was exposed to the broad disciplines of plant and animal sciences which endowed me with theoretical understanding and practical skills in routine microbiology, genetics, and molecular biology. I consequently developed a passion for these fields and invested time in online courses on bioinformatics e.g., Introduction to Linux for Biologists (Future Learn), and Introduction to R among others, which made me apply for the Bioinformatics Internship and Incubation Program at ICIPE. The program is well structured offering a good mastery of concepts, personal and professional growth, hands-on experience through mini-projects, and scientific communication. Following the engagements during the internship, I have resolved to pursue a career utilizing genomic approaches to understand and conserve the environment and biodiversity. Many thanks to the organizers, trainers, and the MBBU at large.
     
