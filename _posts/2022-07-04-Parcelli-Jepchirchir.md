@@ -1,6 +1,6 @@
 ---
 title: My internship journey
-photo: /assets/img/Parcelli.jpg
+photo: /assets/img/Parcelli.jpeg
 tags: bioinformatics intern
 featured: false
 author: Parcelli Jepchirchir

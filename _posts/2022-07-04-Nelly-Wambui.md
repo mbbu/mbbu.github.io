@@ -1,6 +1,6 @@
 ---
 title: My Internship journey
-photo: /assets/img/Nelly.jpg
+photo: /assets/img/Nelly.jpeg
 tags: icipe intern bioinformatics
 featured: false
 author: Nelly Wambui
