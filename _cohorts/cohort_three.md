@@ -16,7 +16,7 @@ participants:
     university: Pwani University
     description: I took part in the East African Network for Bioinformatics Training (EANBIT) and the Molecular Biology, Bioinformatics and Statistics Unit (MBBU)-organized Bioinformatics Incubation and Mentorship program from June to September 2021 at the icipe. The program provided me with a once-in-a-lifetime chance to learn more about a variety of topics I found challenging in genomics and bioinformatics, gained access to a wealth of resources, forged connections, and honed my programming and analysis skills in an effort to hone my abilities in anticipation of a future career in plant genomics. Because the program was very adaptable and permitted interns to access learning resources for independent study and participate in training sessions with  surpivisor and trainer Dr. Caleb Kibet, Festus Nyasimi respectively , I was able to focus on my weak areas.I was able to connect with other interns as well scientists from different discourse communities within the bioinformatics industry thanks to the program's collaborative nature, which helped me study and comprehend theoretical concepts in a fresh approach. By the end of the four-month experience, I had accomplished my objectives and improved my proficiency in several programming languages and bioinformatics genomic analysis. To sum it up, lemmi say, it was a really thorough and entertaining training.
     
-    - name: Brenda Kamau
+  - name: Brenda Kamau
     photo: /assets/img/cohorts/cohort_three/Johnny.jpg
     course: Bachelor of Science Biochemistry
     university: Pwani University
