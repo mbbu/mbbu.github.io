@@ -4,7 +4,7 @@ photo: /assets/img/Luka.jpg
 tags: bioinformatics intern
 featured: false
 author: Luka Lmelias
-author_photo: /assets/img/Luke.jpg
+author_photo: /assets/img/Luka.jpg
 excerpt_separator: <!--main-->
 ---
 
