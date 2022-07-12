@@ -26,8 +26,7 @@ participants:
     photo: /assets/img/cohorts/cohort_four/Joyce-photo.jpg
     course: Bachelor of Science Genomic Sciences
     university: Jomo Kenyatta University of Science and Technology
-    description: It is such an honor to have been part of the Bioinformatics Incubation and Mentorship  Program at ICIPE. This experience has laid a great foundation for my career in Bioinformatics. The program is well-structured and facilitated by a dedicated team of experts. It involves a rigorous training for both technical and soft skills after which one reproduces a scientific paper and works on the mini-project collaboratively, a unique approach to enhance skill retention.
-In Addition to that, the journal club presentations and weekly code review equips one with writing, communication and presentation skills. The training equipped me with a unique sense of tenacity and diligence to meticulously approach scientific problems through a computational lens and with the necessary soft skills. I am now more motivated and confident to pursue Bioinformatics further. I accord profound gratitude to Dr. Caleb Kibet, Ruth Nanjala, Eric Kariuki, Pauline Karega and the entire Bioinformatics team for their dedication to teach, guide and mentor us through the internship period and even afterwards through the alumni mentorship program.
+    description: 
     
 projects:
   - name: Reviewing 16s Analysis workflows
