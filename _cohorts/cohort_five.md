@@ -30,8 +30,8 @@ participants:
     
   - name: Audrey Oronda
     photo: /assets/img/cohorts/cohort_five/Audrey.jpg
-    course: Bachelor of Science Computer Science
-    university: Embu University
+    course: BSc. Biotechnology
+    university: Jomo Kenyatta University of Agriculture and Technology
     description: My expectations from this program was to gain basic practical skills on bioinformatics and form collaborations with other scientists. Coming from a biotechnology background which is a very diverse course, I approached this program with a diverse mindset and get to know how i can align my scientific interests with biotechnology. I learnt on specific biology areas like phylogenetics, next generation sequencing just to mention a few. Also, I got to explore more on computational biology(R, Python and Bash) which was a plus from my side as I had very little knowledge on this area. I was able to analyse real data using computer knowledge.  Something I greatly appreciate about the program is the ability to develop us theoritically and hands on so that we may be able to experience what life as a bioinformatician really is in terms of challenges and achievements too. I also cannot fail to mention the soft skills gained during this program which will be of help as a young scientist. Now I can say I got a pretty clear path on what I would love to focus as I got to understand how my interests (malaria genomics, transgenics) could blend with bioniformatics. Thank you to the entire MBBU and the head Dr. Caleb Kibet for the patience and the guidance throughout thie program.
     
 projects:
