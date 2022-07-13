@@ -34,6 +34,11 @@ participants:
     university: Pwani University
     description: The bioinformatics incubation and mentorship program at ICIPE was a stepping stone into what I have wanted to know and pursue as a career. I gained the confidence to solving errors, which forms the backbone of a bioinformatics pipeline. I did gain skills such as programming, problem solving, critical thinking. My communication, presentation, writing, leadership and collaboration skills improved so well courtesy of this very program. As of today, I'm ready to step up and challenge myself to more technical opportunities to add cement what I learned from this program and possibly make a career out of it, to help improve the community around me and the world.
     
+  - name: Allan Okeyo
+    photo: /assets/img/Nelly.jpeg
+    course: Bachelor of Science Medical Biochemistry
+    university: Jomo Kenyatta University of Agriculture and Technology
+    description: My internship period was one very educative one. Through the tasks given I got to grow in my bioinformatics skills. Our supervisors Dr. Caleb Kibet and Ruth Nanjala and the whole team that took us through the training made it easy to get through every stage of it. I got to practice and improve on various skills such as in my communication, presentation of work, and even collaborative skills. It was a wholesome experience and I am grateful to have been part of it.
 projects:
   - name: Reviewing 16s Analysis workflows
     description: This mini-project aims to review existing microbiome workflows, identify great ones and extend the workflows where there are gaps, especially to make them useful in insect and pathogen data.
