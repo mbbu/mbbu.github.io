@@ -25,7 +25,7 @@ participants:
   - name: Dennis Kinyugo
     photo: /assets/img/cohorts/cohort_five/Dennis.jpg
     course: Bachelor of Science Computer Science
-    university: Embu University
+    university: Dedan Kimathi University of Science and Technology
     description: Coming from a Computer Science background, the Bioinformatics Internship program gave me a unique chance to learn how computation is applied in biological sciences. I got to the opportunity to work on exciting projects ranging from phylogenetics to pangenomic analysis. The hands-on quality training offered by well experienced trainers gave me the necessary knowledge to familiarise with biological computation. From the internship I gained professional skills that will further my career and propel me towards my goal of become an AI research scientist. My deepest gratitude goes to the entire MBBU department for granting me that unique opportunity and for their mentorship and unwavering support throughout the internship.
     
   - name: Audrey Oronda
