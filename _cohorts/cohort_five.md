@@ -4,9 +4,9 @@ photo: /assets/img/people.svg
 start_date: 2022-02-01
 end_date: 2022-05-01
 participants:
-  - name: Maxwell Booker
-    photo: /assets/img/people.svg
-    course: Bachelor of Science Applied Bioengineering
+  - name: Alunga Maxwell Booker
+    photo: /assets/img/cohorts/cohort_five/Maxwell.jpg
+    course: Bachelor of Science Biochemistry and Molecular Biology
     university: Jomo Kenyatta University of Science and Technology
     description: The Bioinformatics Incubation program offered a well-detailed introduction to Bioinformatics. Interacting with successful scientists has motivated me to keep moving forward as a scientist. This program has been a great learning experience, the skills I have gained can attest to the expectations I had at the beginning, and the tools and resources are all up to date and easily accessible. The hands-free approach to teaching has allowed me to work within an HPC, understand some Programming languages, and Making use of Biological Databases, and so on. I have also learned how to communicate effectively, work in a team collaboratively, exchange ideas, and gain new insights from my supervisors and colleagues. I did a mini-project on the analysis of data Sequenced using Next Generation Sequencing Techniques in which I applied most of the above skills. Working on this project was an opportunity for me to obtain a hands-on experience in NGS data analysis. I would like to thank everyone who participated in creating this opportunity, it is a door to career growth for young scientists in the future and a wonderful program with no faults. I thank Dr. Caleb Kibet, Ruth Nanjala, Pauline Karega, and other trainers for their dedication to training and mentoring us.
     
@@ -30,8 +30,8 @@ participants:
     
   - name: Audrey Oronda
     photo: /assets/img/cohorts/cohort_five/Audrey.jpg
-    course: Bachelor of Science Computer Science
-    university: Embu University
+    course: BSc. Biotechnology
+    university: Jomo Kenyatta University of Agriculture and Technology
     description: My expectations from this program was to gain basic practical skills on bioinformatics and form collaborations with other scientists. Coming from a biotechnology background which is a very diverse course, I approached this program with a diverse mindset and get to know how i can align my scientific interests with biotechnology. I learnt on specific biology areas like phylogenetics, next generation sequencing just to mention a few. Also, I got to explore more on computational biology(R, Python and Bash) which was a plus from my side as I had very little knowledge on this area. I was able to analyse real data using computer knowledge.  Something I greatly appreciate about the program is the ability to develop us theoritically and hands on so that we may be able to experience what life as a bioinformatician really is in terms of challenges and achievements too. I also cannot fail to mention the soft skills gained during this program which will be of help as a young scientist. Now I can say I got a pretty clear path on what I would love to focus as I got to understand how my interests (malaria genomics, transgenics) could blend with bioniformatics. Thank you to the entire MBBU and the head Dr. Caleb Kibet for the patience and the guidance throughout thie program.
     
 projects:
