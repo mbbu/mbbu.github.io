@@ -4,9 +4,9 @@ photo: /assets/img/people.svg
 start_date: 2022-02-01
 end_date: 2022-05-01
 participants:
-  - name: Maxwell Booker
-    photo: /assets/img/people.svg
-    course: Bachelor of Science Applied Bioengineering
+  - name: Alunga Maxwell Booker
+    photo: /assets/img/cohorts/cohort_five/Maxwell.jpg
+    course: Bachelor of Science Biochemistry and Molecular Biology
     university: Jomo Kenyatta University of Science and Technology
     description: The Bioinformatics Incubation program offered a well-detailed introduction to Bioinformatics. Interacting with successful scientists has motivated me to keep moving forward as a scientist. This program has been a great learning experience, the skills I have gained can attest to the expectations I had at the beginning, and the tools and resources are all up to date and easily accessible. The hands-free approach to teaching has allowed me to work within an HPC, understand some Programming languages, and Making use of Biological Databases, and so on. I have also learned how to communicate effectively, work in a team collaboratively, exchange ideas, and gain new insights from my supervisors and colleagues. I did a mini-project on the analysis of data Sequenced using Next Generation Sequencing Techniques in which I applied most of the above skills. Working on this project was an opportunity for me to obtain a hands-on experience in NGS data analysis. I would like to thank everyone who participated in creating this opportunity, it is a door to career growth for young scientists in the future and a wonderful program with no faults. I thank Dr. Caleb Kibet, Ruth Nanjala, Pauline Karega, and other trainers for their dedication to training and mentoring us.
     
