@@ -28,6 +28,12 @@ participants:
     university: Jomo Kenyatta University of Science and Technology
     description: It is such an honor to have been part of the Bioinformatics Incubation and Mentorship  Program at ICIPE. This experience has laid a great foundation for my career in Bioinformatics. The program is well structured and facilitated by a dedicated team of experts. It involves a rigorous training for both technical and soft skills after which one reproduces a scientific paper and works on the mini-project collaboratively, a unique approach to enhance skill retention. In Addition to that, the journal club presentations and weekly code review equips one with writing, communication and presentation skills. The training equipped me with a unique sense of tenacity and diligence to meticulously approach scientific problems through a computational lens and with the necessary soft skills. I am now more motivated and confident to pursue Bioinformatics further. I accord profound gratitude to Dr. Caleb Kibet, Ruth Nanjala, Eric Kariuki, Pauline Karega and the entire Bioinformatics team for their dedication to teach, guide and mentor us through the internship period and even afterwards through the alumni mentorship program.
     
+  - name: Allan Okeyo
+    photo: /assets/img/cohorts/cohort_four/Allan.jpg
+    course: Bachelor of Science Microbiology
+    university: Pwani University
+    description: The bioinformatics incubation and mentorship program at ICIPE was a stepping stone into what I have wanted to know and pursue as a career. I gained the confidence to solving errors, which forms the backbone of a bioinformatics pipeline. I did gain skills such as programming, problem solving, critical thinking. My communication, presentation, writing, leadership and collaboration skills improved so well courtesy of this very program. As of today, I'm ready to step up and challenge myself to more technical opportunities to add cement what I learned from this program and possibly make a career out of it, to help improve the community around me and the world.
+    
 projects:
   - name: Reviewing 16s Analysis workflows
     description: This mini-project aims to review existing microbiome workflows, identify great ones and extend the workflows where there are gaps, especially to make them useful in insect and pathogen data.
