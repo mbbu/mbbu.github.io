@@ -10,3 +10,6 @@ participants:
     university: Pwani University
     description: I enjoyed my stay at icipe and thanks to the MBBU unit. The bioinformatics internship was intensive, but I enjoyed learning from the generous facilitators who were always ready and willing to help at any time. You also meet friendly scientists from diverse disciplines.  The internship is a perfect program for any undergrad aspiring to pursue a career in bioinformatics despite their background studies. The internship program helped me build confidence in furthering my studies in bioinformatics to the graduate level. Although I will miss my life at icipe, I am happy that I have developed a good network of mentors with similar interests.
     
+    
+---
+    
