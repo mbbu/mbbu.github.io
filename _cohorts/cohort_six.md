@@ -36,7 +36,7 @@ participants:
     description: I was introduced to bioinformatics in the last year of my undergraduate studies.
     
   - name: Mark Njama  
-    photo: /assets/img/cohorts/cohort_six/ann.jpeg
+    photo: /assets/img/cohorts/cohort_six/mark.jpeg
     course: Bachelor of Science 
     university: Jomo Kenyatta University and Technology
     description: The Bioinformatics Incubation and Mentorship program at icipe was eye opening for me.
