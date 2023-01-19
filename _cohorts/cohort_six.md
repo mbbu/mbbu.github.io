@@ -14,7 +14,7 @@ participants:
     photo: /assets/img/cohorts/cohort_six/vnatasha.jpg
     course: Bachelor of Science 
     university: Mount Kenya University
-    description: The experience I got as an intern at ICIPE was informative and educational.
+    description: The bioinformatics internship at icipe provides a wholesome experience of what it takes to be a great scientist. The training taught me not to be myopic in my thinking and that where there is a will, there’s a way. I have learned how to collaborate with others and open my mind to different perspectives. This internship changes your thinking and equips you with various tools to solve different bioinformatics problems. I am grateful for this opportunity because it has set the pace for everything else I will do in science.
 
   - name: Jimmy K. Nkaiwuatei
     photo: /assets/img/cohorts/cohort_six/jimmy.jpg
