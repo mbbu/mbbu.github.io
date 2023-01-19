@@ -63,6 +63,7 @@
     - name: Another One
       github: ""
       
+ 
 - id: cohort_6
   name: Cohort 6
   participants:
@@ -75,5 +76,4 @@
       github: ""
     - name: Another One
       github: ""
- 
     
