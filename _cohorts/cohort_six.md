@@ -26,7 +26,7 @@ participants:
     photo: /assets/img/cohorts/cohort_six/ann.jpg
     course: Bachelor of Science 
     university: Jomo Kenyatta University and Technology
-    description: The Bioinformatics Incubation and Mentorship program at icipe was eye opening for me.  
+    description: The bioinformatics internship at icipe exceeded all my expectations. The wholesomeness and intensity of the training have shaped me to be a better scientist in various aspects, including research and manuscript writing. Along with developing my soft skills, I have come out of the internship more confident, assertive, and able to collaborate with others with diverse personalities. I have also gained a network of mentors who are a force to be reckoned with in this field. I will always be grateful for the role of this internship in cementing my career as a bioinformatician. I am highly honored to have been a part of this journey.  
     
     
   - name: Cynthia Kamau
