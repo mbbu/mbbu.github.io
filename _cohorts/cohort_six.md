@@ -33,7 +33,7 @@ participants:
     photo: /assets/img/cohorts/cohort_six/ckamau.jpg
     course: Bachelor of Science Genomics
     university: Jomo Kenyatta University of Agriculture and Technology
-    description: I was introduced to bioinformatics in the last year of my undergraduate studies.
+    description: The bioinformatics internship at icipe was a game changer for me, as it helped lay the foundation for my career. It was a valuable and enlightening experience. I had the opportunity to work with a talented team of researchers, collaborate with my fellow peers who are brilliant scientists, and solve real-world problems using technology. I learned a great deal about the current state of the field and the various techniques used to analyze and interpret large sets of biological data. I also gained valuable experience in programming, data analysis, scientific communication, and how high-performance computing works and is configured. Our supervisors were very friendly and eager to help when we got stuck. Overall, I am grateful for the opportunity the MBBU team gave me to gain hands-on experience in bioinformatics. I am excited to apply what I've learned in my future endeavors.
     
   - name: Mark Njama  
     photo: /assets/img/cohorts/cohort_six/mark.jpg
