@@ -39,7 +39,7 @@ participants:
     photo: /assets/img/cohorts/cohort_six/mark.jpg
     course: Bachelor of Science 
     university: Jomo Kenyatta University and Technology
-    description: The Bioinformatics Incubation and Mentorship program at icipe was eye opening for me.
+    description: My tenure at ICIPE pervaded me with a plethora of learning experiences that equipped me with the necessary skills to handle practical bioinformatic scenarios. These same skills have helped pave the way for the next steps in my professional agenda. The MBBU staff walked my fellow cohorts and me through extensive training and mentorship modules that shaped certain aspects of how I think when tackling problems. With a strong emphasis on collaboration, working on various projects in teams enabled us to identify strengths amongst ourselves, fostering a smooth and healthy working environment in the office. It was an honour to be part of the 6th cohort at ICIPE.
 
     
 projects:
